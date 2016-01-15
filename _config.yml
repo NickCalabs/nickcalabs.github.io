@@ -1,0 +1,32 @@
+
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:               Nick Calabro
+tagline:             Personal Blog
+url:                 http://nickcalabro.com
+paginate:            3
+baseurl:             ""
+markdown: redcarpet
+
+# Assets
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# About/contact
+author:
+  name:              Nick Calabro
+  url:               https://twitter.com/nickcalabs
+  email:             calabro.nick@gmail.com
+
+# Custom vars
+version:             2.0.0
+github: 						 
+  repo:              
+
+pages_list:       
+  About: '/about'
+  Archive: '/archive'
+  Feed: '/atom.xml'

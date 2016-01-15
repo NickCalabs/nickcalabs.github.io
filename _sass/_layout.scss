@@ -1,0 +1,29 @@
+// Layout
+//
+// Styles for managing the structural hierarchy of the site.
+
+.container {
+  max-width: 38rem;
+  padding-left:  1.5rem;
+  padding-right: 1.5rem;
+  margin-left:  auto;
+  margin-right: auto;
+  margin-top:10px;
+}
+
+footer {
+  margin-bottom: 2rem;
+}
+
+.about-image{
+	width: 250px;
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-right: 25px;
+}
+
+::selection{
+  background-color: #435460;
+  color: white;
+}

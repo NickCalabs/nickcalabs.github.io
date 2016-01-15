@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  {% include head.html %}
+
+  <body>
+  <div id="left"></div>
+  <div id="right"></div>
+  <div id="top"></div>
+  <div id="bottom"></div>
+
+    <div class="container content">
+        <h3 class="masthead-title">
+          <a href="/" title="Home">{{ site.title }}</a>
+
+          {% for page in site.pages_list %}
+            <small style="float:right;"><a href="{{ page[1] }}">{{ page[0] }}</a>&nbsp;&nbsp;&nbsp;</small>
+          {% endfor %}
+        </h3>
+      
+      <main style="margin-top:25px;">
+        <!-- <p>Test haha</p> -->
+        {{ content }}
+      </main>
+
+      
+    </div>
+    
+    <footer>
+      <div class="container">
+        <small>
+          &copy; <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: '%Y' }}</time>. New York, NY.
+        </small>
+        </div>
+      </footer>
+
+  </body>
+</html>
