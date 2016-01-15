@@ -6,6 +6,12 @@ author: Nick Calabro
 image: railswelcome.jpg
 ---
 
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@NickCalabs" />
+<meta name="twitter:title" content="Nick Calabro's Personal Blog" />
+<meta name="twitter:description" content="Read the latest post" />
+<meta name="twitter:image" content= "{{ page.image }}" />
+
 ##Rails New
 
 The website you are on right now is a fairly basic blog written in Ruby on Rails. It allows users to create posts and involves some pretty exciting syntax highlighting and Bootstrap integration. In a series of articles, I will go through, step by step, how to create this very site - from rails new all the way to deployment.
