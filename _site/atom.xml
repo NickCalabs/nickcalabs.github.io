@@ -4,7 +4,7 @@
  <title>Nick Calabro</title>
  <link href="http://nickcalabro.com/atom.xml" rel="self"/>
  <link href="http://nickcalabro.com/"/>
- <updated>2016-01-15T00:19:48-05:00</updated>
+ <updated>2016-01-15T00:21:30-05:00</updated>
  <id>http://nickcalabro.com</id>
  <author>
    <name>Nick Calabro</name>
@@ -137,29 +137,6 @@
 &lt;div class=&quot;message&quot;&gt;
   Hi, this was originally written and posted on that &lt;a href=&quot;https://nameless-dusk-8821.herokuapp.com/&quot;&gt;very blog&#39;s site&lt;/a&gt; which is still being hosted up via Heroku. 
 &lt;/div&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Test Post</title>
-   <link href="http://nickcalabro.com/rails/2016/01/13/First-Post/"/>
-   <updated>2016-01-13T00:00:00-05:00</updated>
-   <id>http://nickcalabro.com/rails/2016/01/13/First-Post</id>
-   <content type="html">&lt;div class=&quot;message&quot;&gt;
-  Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
-&lt;/div&gt;
-
-&lt;p&gt;too &lt;a href=&quot;test&quot;&gt;test&lt;/a&gt;much time, plus i found myself being very pretentious about the things i post. It was time to go. Anyone that has any interest in my life I’ll actually speak to Phasellus laoreet lorem vel dolor tempus vehicula. Ab illo tempore, ab est sed immemorabili. Quam temere in vitiis, legem sancimus haerentia. Qui ipsorum lingua Celtae, nostra Galli appellantur. Curabitur est gravida et libero vitae dictum. Cras mattis iudicium purus sit amet fermentum.too much time, plus i found myself being very pretentious about the things i post. It was time to go. Anyone that has any interest in my life I’ll actually speak to Phasellus laoreet lorem vel dolor tempus vehicula. Ab illo tempore, ab est sed immemorabili. Quam temere in &lt;code&gt;vitiis, legem sancimus haerentia. Qui ipsorum lingua Celtae, nostra Galli appellantu&lt;/code&gt;r. Curabitur est gravida et libero vitae dictum. Cras mattis iudicium purus sit amet fermentum.too much time, plus i found myself being very pretentious about the &lt;/p&gt;
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-console&quot; data-lang=&quot;console&quot;&gt;&lt;span class=&quot;go&quot;&gt;echo this&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-swift&quot; data-lang=&quot;swift&quot;&gt;&lt;span class=&quot;k&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nl&quot;&gt;town&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;String&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;town&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;City&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;html&amp;gt;&lt;/span&gt;
-    &lt;span class=&quot;nt&quot;&gt;&amp;lt;body&amp;gt;&lt;/span&gt;
-        &lt;span class=&quot;nt&quot;&gt;&amp;lt;h1&amp;gt;&lt;/span&gt;hi there&lt;span class=&quot;nt&quot;&gt;&amp;lt;/h1&amp;gt;&lt;/span&gt;
-    &lt;span class=&quot;nt&quot;&gt;&amp;lt;/body&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;/html&amp;gt;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;sed immemorabili. Quam temere in vitiis, legem sancimus haerentia. Qui ipsorum lingua Celtae, nostra Galli appellantur. Curabitur est gravida et libero vitae dictum. Cras mattis iudicium purus sit amet fermentum.too much time, plus i found myself being very pretentious about the things i post. It was time to go. Anyone that has any interest in my life I’ll actually speak to Phasellus laoreet lorem vel dolor tempus vehicula. Ab illo tempore, ab est sed immemorabili. Quam temere in vitiis, legem sancimus haerentia. Qui ipsorum lingua Celtae, nostra Galli appellantur. Curabitur est gravida et libero vitae dictum. Cras mattis iudicium purus sit amet fermentum.too much time, plus i found myself being very pretentious about the things i post. It was time to go. Anyone that has any interest in my life I’ll actually speak to Phasellus laoreet lorem vel dolor tempus vehicula. Ab illo tempore, ab est sed immemorabili. Quam temere in vitiis, legem sancimus haerentia. Qui ipsorum lingua Celtae, nostra Galli appellantur. Curabitur est gravida et libero vitae dictum. Cras mattis iudicium purus sit amet fermentum.&lt;/p&gt;
 </content>
  </entry>
  
