@@ -8,7 +8,7 @@ image: nick.jpg
 
 Hey. I'm Nick and I create apps using for iOS, the web, and more.
 
-You can find me most places on most places of the internet:
+You can find me on most places of the internet:
 
 [http://twitter.com/nickcalabs](http://twitter.com/nickcalabs)
 [http://linkedin.com/in/nickcalabro](http://linkedin.com/in/nickcalabro)
