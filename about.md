@@ -6,7 +6,7 @@ image: nick.jpg
 
 <p style="float:left;"><img class="about-image" src="/img/{{ page.image }}"></p>
 
-Hey. I'm Nick and I create apps using for iOS, the web, and more.
+Hey. I'm Nick and I create apps for iOS, the web, and more. 
 
 You can find me on most places of the internet:
 
