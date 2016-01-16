@@ -3,7 +3,6 @@ layout: post
 tags:
 - jekyll
 - code
-title: "Build a Blog with Rails"
 categories: Rails
 author: Nick Calabro
 image: railswelcome.jpg
