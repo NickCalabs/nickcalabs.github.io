@@ -1,6 +1,5 @@
 ---
 layout: post
-title: "Build a Blog with Rails"
 categories: Rails
 author: Nick Calabro
 image: railswelcome.jpg
