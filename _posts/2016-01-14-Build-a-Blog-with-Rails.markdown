@@ -10,7 +10,6 @@ image: railswelcome.jpg
 <meta name="twitter:site" content="@NickCalabs" />
 <meta name="twitter:title" content="{{ page.title }}" />
 <meta name="twitter:description" content="Nick Calabro's Blog" />
-<meta name="twitter:image" content= "/img/{{ page.image }}" />
 
 ##Rails New
 
