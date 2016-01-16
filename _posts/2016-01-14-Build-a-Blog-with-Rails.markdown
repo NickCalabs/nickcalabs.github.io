@@ -7,7 +7,7 @@ title: "Build a Blog with Rails"
 categories: Rails
 author: Nick Calabro
 image: railswelcome.jpg
-excerpt: "this is a test excerpt"
+excerpt: "Welcome. This is the first installment of a series of posts that will walk you through how to build a blogging app using Ruby on Rails."
 ---
 
 <meta name="twitter:card" content="summary" />

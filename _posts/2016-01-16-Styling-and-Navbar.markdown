@@ -6,6 +6,7 @@ tags:
 categories: Rails
 author: Nick Calabro
 image: railswelcome.jpg
+excerpt: "Your blog has to look good. This is how to add Bootstrap and use it to style your blog."
 ---
 
 <meta name="twitter:card" content="summary" />
