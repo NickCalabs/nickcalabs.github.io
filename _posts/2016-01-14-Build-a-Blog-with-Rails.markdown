@@ -168,5 +168,5 @@ Go ahead and commit have you have with git.
 
 
 <div class="message">
-  Hi, this was originally written and posted on that <a href="https://nameless-dusk-8821.herokuapp.com/">very blog's site</a> which is still being hosted up via Heroku. 
+  Hi, this was originally written and posted on that <a href="https://nameless-dusk-8821.herokuapp.com/">very blog's site</a> which is still being hosted up via Heroku.<br>If you liked this or found it useful please let me know. You can check out the code on my <a href="http://github.com/nickcalabs">GitHub</a> and I'd love to connect on <a href="http://twitter.com/nickcalabs">Twitter</a>, <a href="http://linkedin.com/in/nickcalabro">Linkedin</a>, or just chatting in <a href="mailto:calabro.nick@gmail.com">emails</a>.
 </div>
