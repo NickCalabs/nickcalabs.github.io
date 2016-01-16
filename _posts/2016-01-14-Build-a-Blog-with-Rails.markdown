@@ -14,6 +14,9 @@ image: railswelcome.jpg
 <meta name="twitter:title" content="{{ page.title }}" />
 <meta name="twitter:description" content="Nick Calabro's Blog" />
 
+<div class="message">This is part one a the six part series covering, in detail, how to <a href="nameless-dusk-8821.herokuapp.com">create this blog with Ruby on Rails</a> from backend to frontend. 
+</div>
+
 ##Rails New
 
 The website you are on right now is a fairly basic blog written in Ruby on Rails. It allows users to create posts and involves some pretty exciting syntax highlighting and Bootstrap integration. In a series of articles, I will go through, step by step, how to create this very site - from rails new all the way to deployment.
@@ -168,5 +171,5 @@ Go ahead and commit have you have with git.
 
 
 <div class="message">
-  Hi, this was originally written and posted on that <a href="https://nameless-dusk-8821.herokuapp.com/">very blog's site</a> which is still being hosted up via Heroku.<br>If you liked this or found it useful please let me know. You can check out the code on my <a href="http://github.com/nickcalabs">GitHub</a> and I'd love to connect on <a href="http://twitter.com/nickcalabs">Twitter</a>, <a href="http://linkedin.com/in/nickcalabro">Linkedin</a>, or just chatting in <a href="mailto:calabro.nick@gmail.com">emails</a>.
+  If you liked this or found it useful please let me know. You can check out the code on my <a href="http://github.com/nickcalabs">GitHub</a> and I'd love to connect on <a href="http://twitter.com/nickcalabs">Twitter</a>, <a href="http://linkedin.com/in/nickcalabro">Linkedin</a>, or just chatting in <a href="mailto:calabro.nick@gmail.com">emails</a>.
 </div>

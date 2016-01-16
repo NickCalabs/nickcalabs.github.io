@@ -13,6 +13,9 @@ image: railswelcome.jpg
 <meta name="twitter:title" content="{{ page.title }}" />
 <meta name="twitter:description" content="Nick Calabro's Blog" />
 
+<div class="message">This is part two a the six part series covering, in detail, how to <a href="nameless-dusk-8821.herokuapp.com">create this blog with Ruby on Rails</a> from backend to frontend. 
+</div>
+
 ##Styling
 
 Our app have very little functionality - which is good. At least it has some functionality. Before we continue, though, I think we should add some styling so we’re not looking at any gross basic HTML structuring. The first thing we’re going to do here is add Bootstrap. In your terminal, create a new branch. This way, if we screw something up, we can always revert back to where we are now and start breathing at a normal rate again.
@@ -89,3 +92,7 @@ git branch -d style
 ```
 
 Now that you have something that looks pretty, we can commit these changes, merge them, delete the style branch and add some crazy functionality in the next post.
+
+<div class="message">
+  If you liked this or found it useful please let me know. You can check out the code on my <a href="http://github.com/nickcalabs">GitHub</a> and I'd love to connect on <a href="http://twitter.com/nickcalabs">Twitter</a>, <a href="http://linkedin.com/in/nickcalabro">Linkedin</a>, or just chatting in <a href="mailto:calabro.nick@gmail.com">emails</a>.
+</div>
