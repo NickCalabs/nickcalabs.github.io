@@ -7,6 +7,7 @@ title: "Build a Blog with Rails"
 categories: Rails
 author: Nick Calabro
 image: railswelcome.jpg
+excerpt_separator: <!--more-->
 ---
 
 <meta name="twitter:card" content="summary" />
@@ -21,7 +22,9 @@ image: railswelcome.jpg
 
 The website you are on right now is a fairly basic blog written in Ruby on Rails. It allows users to create posts and involves some pretty exciting syntax highlighting and Bootstrap integration. In a series of articles, I will go through, step by step, how to create this very site - from rails new all the way to deployment.
 
+<!--more-->
 This is designed for someone who is comfortable with code in general, however, I’ll be doing my best to describe what each step does and why we’re doing it. Hopefully, you and I will learn more about the intricacies of a site like this.
+<!--more-->
 
 First we have to open up Terminal. Navigate to the directory you’d like this project to live in and create a new Rails app. In this case I’ll be going to the Desktop.
 
