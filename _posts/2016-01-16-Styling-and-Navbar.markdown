@@ -1,8 +1,5 @@
 ---
 layout: post
-tags:
-- jekyll
-- code
 categories: Rails
 author: Nick Calabro
 image: railswelcome.jpg
