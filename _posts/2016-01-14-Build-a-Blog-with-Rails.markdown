@@ -14,7 +14,7 @@ image: railswelcome.jpg
 <meta name="twitter:title" content="{{ page.title }}" />
 <meta name="twitter:description" content="Nick Calabro's Blog" />
 
-<div class="message">This is part one a the six part series covering, in detail, how to <a href="nameless-dusk-8821.herokuapp.com">create this blog with Ruby on Rails</a> from backend to frontend. 
+<div class="message">This is part two of the six part series covering, in detail, how to <a href="http://nameless-dusk-8821.herokuapp.com">create this blog with Ruby on Rails</a> from backend to frontend. 
 </div>
 
 ##Rails New
