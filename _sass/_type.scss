@@ -10,9 +10,6 @@ h1, h2, h3, h4, h5, h6 {
   text-rendering: optimizeLegibility;
   font-weight: 300;
   font-family: Garamond;
-  a{
-    color: #444444;
-  }
 }
 
 h1 {
@@ -106,6 +103,12 @@ a[href^="#fnref:"] {
   display: inline-block;
   margin-left: .1rem;
   font-weight: bold;
+}
+
+a{
+  h1, h2, h3, h4, h5, h6{
+    color: yellow;
+  }
 }
 
 // List of footnotes
