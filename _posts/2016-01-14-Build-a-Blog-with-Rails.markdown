@@ -8,11 +8,9 @@ image: railswelcome.jpg
 
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:site" content="@NickCalabs" />
-<meta name="twitter:title" content="Nick Calabro's Personal Blog" />
-<meta name="twitter:description" content="Read the latest post" />
+<meta name="twitter:title" content="{{ page.title }}" />
+<meta name="twitter:description" content="Nick Calabro's Blog" />
 <meta name="twitter:image" content= "/img/{{ page.image }}" />
-<meta name="twitter:image" content= "https://nickcalabs.github.io/img/railswelcome.jpg" />
-<!-- <meta name="twitter:image" content= "/img/{{ page.image }}" /> -->
 
 ##Rails New
 

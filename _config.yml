@@ -1,5 +1,5 @@
 
-permalink:           pretty
+permalink:           "/:title"
 relative_permalinks: true
 
 # Setup
