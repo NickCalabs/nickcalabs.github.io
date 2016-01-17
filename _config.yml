@@ -6,7 +6,7 @@ relative_permalinks: true
 title:               Nick Calabro
 tagline:             Personal Blog
 url:                 http://nickcalabro.com
-paginate:            3
+paginate:            6
 baseurl:             ""
 markdown: redcarpet
 
