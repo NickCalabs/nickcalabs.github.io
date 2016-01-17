@@ -129,3 +129,13 @@ a{
 *{
   font-weight: 300;
 }
+
+hr {
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 1px solid #444;
+  margin: 1em 0;
+  padding: 0; 
+}
+
