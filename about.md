@@ -15,3 +15,4 @@ You can find me on most places of the internet:
 [http://github.com/nickcalabs](http://github.com/nickcalabs)
 [https://medium.com/@NickCalabs/](https://medium.com/@NickCalabs)
 [calabro.nick@gmail.com](mailto:calabro.nick@gmail.com)
+[Resume](/img/NickCalabro.pdf)
