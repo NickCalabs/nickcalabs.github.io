@@ -2,6 +2,7 @@
 layout: post
 categories: Rails
 author: Nick Calabro
+title: "Validation & Partials (Part III)"
 image: railswelcome.jpg
 excerpt: "Have you ever wanted to create one snippet of code and re-use it in different areas throughout your project? You need to learn how to integrate partials into your Rails app."
 ---

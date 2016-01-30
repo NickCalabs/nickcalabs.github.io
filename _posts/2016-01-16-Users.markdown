@@ -2,6 +2,7 @@
 layout: post
 categories: Rails
 author: Nick Calabro
+title: "Users (Part V)"
 image: railswelcome.jpg
 excerpt: "What's a web app if you can't sign up and sign in? Using Devise, creating users authenticating them is as easy as pie."
 ---

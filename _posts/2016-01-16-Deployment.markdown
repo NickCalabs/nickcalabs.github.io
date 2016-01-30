@@ -2,6 +2,7 @@
 layout: post
 categories: Rails
 author: Nick Calabro
+title: "Deployment (Part VI)"
 image: railswelcome.jpg
 excerpt: "Now your blog is created. You're writing posts, you're sharing your work, but wait - it's not live on the web! Until now."
 ---
