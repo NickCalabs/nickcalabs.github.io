@@ -6,7 +6,7 @@ image: nick.jpg
 
 <p style="float:left;"><img class="about-image" src="/img/{{ page.image }}"></p>
 
-I'm Nick and I create apps for iOS, the web, and more. 
+I'm Nick and I create apps for iOS, the web, and more. I also host the [http://www.meetup.com/Quack-Hack-New-York-City/](NYC DuckDuckHack) event.
 
 You can find me on most places of the internet:
 
