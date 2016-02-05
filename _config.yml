@@ -1,6 +1,5 @@
 
 permalink:           "/:title"
-relative_permalinks: true
 
 # Setup
 title:               Nick Calabro
