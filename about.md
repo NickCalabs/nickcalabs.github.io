@@ -18,4 +18,4 @@ You can find me on most places of the internet:
 
 [Resume](/resume.pdf)
 
-<div id="widget" style=" display: inline-block; overflow: hidden; height: auto; min-width: 100px; text-align: center; line-height: normal; white-space: nowrap; vertical-align: middle;">                <a target="_blank" href="http://m.me/nickcalabs" style="margin-top: 5px; display: inline-block; width: 47px; height: 47px; background: url('https://nickcalabro.com/messenger.png') no-repeat; background-size: 47px 47px;">        </a>    </div><script async defer src="https://assets.modernapp.co/assets/js/embed.js"></script>
+<div id="widget" style=" display: inline-block; overflow: hidden; height: auto; min-width: 100px; text-align: center; line-height: normal; white-space: nowrap; vertical-align: middle;">                <a target="_blank" href="http://m.me/nickcalabs" style="margin-top: 5px; display: inline-block; width: 47px; height: 47px; background: url('https://nickcalabro.com/img/messenger.png') no-repeat; background-size: 47px 47px;">        </a>    </div><script async defer src="https://assets.modernapp.co/assets/js/embed.js"></script>
