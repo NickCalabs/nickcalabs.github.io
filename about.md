@@ -10,10 +10,10 @@ I'm Nick and I create apps for iOS, the web, and more. I also host the [NYC Duck
 
 You can find me on most places of the internet:
 
-[twitter.com/nickcalabs](http://twitter.com/nickcalabs)
-[linkedin.com/in/nickcalabro](http://linkedin.com/in/nickcalabro)
-[github.com/nickcalabs](http://github.com/nickcalabs)
-[medium.com/@NickCalabs/](https://medium.com/@NickCalabs)
+[twitter.com/nickcalabs](http://twitter.com/nickcalabs)<br>
+[linkedin.com/in/nickcalabro](http://linkedin.com/in/nickcalabro)<br>
+[github.com/nickcalabs](http://github.com/nickcalabs)<br>
+[medium.com/@NickCalabs/](https://medium.com/@NickCalabs)<br>
 [calabro.nick@gmail.com](mailto:calabro.nick@gmail.com)
 
 [Resume](/resume.pdf)
