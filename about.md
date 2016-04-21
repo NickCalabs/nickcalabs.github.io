@@ -19,8 +19,3 @@ You can find me on most places of the internet:
 [Resume](/resume.pdf)
 
 <div id="widget" style=" display: inline-block; overflow: hidden; height: auto; min-width: 100px; text-align: center; line-height: normal; white-space: nowrap; vertical-align: middle; float: right;">                <a target="_blank" href="http://m.me/nickcalabs" style="margin-top: 5px; display: inline-block; width: 150px; height: 150px; background: url('img/messenger.png') no-repeat; background-size: 150px 150px;">        </a><a target="_blank" href="https://www.snapchat.com/add/nickcalabs" style="margin-top: 5px; display: inline-block; width: 150px; height: 150px; background: url('img/snap.png') no-repeat; background-size: 150px 150px;">        </a>    </div>
-
-
-<!-- https://www.snapchat.com/add/nickcalabs -->
-
-<!-- <iframe src="https://scbutton.com/src/button.html?username=nickcalabs&invert=false&large=true" frameborder="0" scrolling="no" height="28px" width="117.90625px"></iframe> -->
