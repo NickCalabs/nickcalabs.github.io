@@ -15,7 +15,7 @@ excerpt: "The Tex Yoda: Aluminum body, features a trackpoint, and more."
 
 ##The Board
 
-The Tex Yoda is a somewhat coveted board in <a href=“http://reddit.com/r/mechanicalkeyboards”>the</a> [keyboard](https://geekhack.org/) [community](https://deskthority.net/). Its limited availability and heavy price tag make it very rare. However, this keyboard has some very unique features along with high-quality parts to make it all worth it. 
+The Tex Yoda is a somewhat coveted board in [the](http://reddit.com/r/mechanicalkeyboards) [keyboard](https://geekhack.org/) [community](https://deskthority.net/). Its limited availability and heavy price tag make it very rare. However, this keyboard has some very unique features along with high-quality parts to make it all worth it. 
 
 ![](img/Tex/yoda.jpg)
 
