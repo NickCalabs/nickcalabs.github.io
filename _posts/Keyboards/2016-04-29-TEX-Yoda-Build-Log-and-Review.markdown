@@ -32,6 +32,7 @@ If you’ve never used a 60%, this is a great one to do some learning on. Althou
 ##The Build
 
 I’ve built a few keyboards in my day so I didn’t feel worried about messing up this expensive board. Building keyboards is usually a very straigtforward process:
+
 - Solder diodes onto the PCB
 - Install switches onto the plate (if the board is plate-mounted as opposed to PCB-mounted, which this one is)
 - Line up plate & switches onto the PCB
@@ -41,7 +42,6 @@ I’ve built a few keyboards in my day so I didn’t feel worried about messing 
 
 ![](img/Tex/parts.JPG)
 ![](img/Tex/parts1.JPG)
-![](img/Tex/parts2.JPG)
 ![](img/Tex/parts3.JPG)
 ![](img/Tex/parts5.JPG)
 
