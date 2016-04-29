@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TEX Yoda Build Log & Review"
+title: "TEX Yoda Build Log &amp; Review"
 category: Keyboards
 author: Nick Calabro
 excerpt: "The Tex Yoda: Aluminum body, features a trackpoint, and more."
