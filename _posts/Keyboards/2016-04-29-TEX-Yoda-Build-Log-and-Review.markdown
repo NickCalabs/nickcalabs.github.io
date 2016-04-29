@@ -11,7 +11,7 @@ excerpt: "The Tex Yoda: Aluminum body, features a trackpoint, and more."
 <meta name="twitter:title" content="{{ page.title }}" />
 <meta name="twitter:description" content="Nick Calabro's Blog" />
 
-<div class="message">The follwing was typed with a HHKB</div>
+<div class="message">The following was typed with a HHKB</div>
 
 ##The Board
 
