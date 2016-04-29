@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Build a Blog with Rails"
-categories: Rails
+category: Rails
 author: Nick Calabro
 image: railswelcome.jpg
 excerpt: "Welcome. This is the will walk you through how to build a blogging app using Ruby on Rails."

@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: Rails
+category: Tech
 author: Nick Calabro
 excerpt: "Steps took to recreate a doughnut chart using D3.js"
 ---
