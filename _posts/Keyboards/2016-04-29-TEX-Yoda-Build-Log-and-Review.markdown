@@ -17,7 +17,7 @@ excerpt: "The Tex Yoda: Aluminum body, features a trackpoint, and more."
 
 The Tex Yoda is a somewhat coveted board in [the](http://reddit.com/r/mechanicalkeyboards) [keyboard](https://geekhack.org/) [community](https://deskthority.net/). Its limited availability and heavy price tag make it very rare. However, this keyboard has some very unique features along with high-quality parts to make it all worth it. 
 
-![](img/Tex/yoda.jpg)
+![TEX Yoda Keyboard from Massdrop.com](img/Tex/yoda.jpg)
 
 The most noticeable thing that distinguishes this keyboard from most others is that red dot you see right in the center. This will undoubtedly bring back memories of some old laptops that came with a TrackPoint as well. It’s simply an attachment that allows you to control the mouse movements without the need to reach all the way over to your mouse. Some refer to this as a pointing stick - I like TrackPoint as that’s how IBM wants it; some have a more [appropriate term](https://xkcd.com/243/), however.
 
@@ -25,7 +25,7 @@ The Yoda also features a full aluminum body. This is great as it adds a fair amo
 
 The layout, though not incredibly special as it’s almost exactly what you’d get with a Pok3r, is innovative and efficient. Firstly, the reason you’d be excited for a TrackPoint is to keep your hands on the home row without wasting time moving to the mouse. It takes some getting used to, but it’s a very natural habit once you learn exactly where to place your fingers. I’ve also never had any problems clicking with the bottom three keys. 
 
-![](img/Tex/layout.png)
+![Tex Yoda Layout](img/Tex/layout.png)
 
 If you’ve never used a 60%, this is a great one to do some learning on. Although the Yoda isn’t fully programmable it offers some unique shortcuts I haven’t found on any other boards. You’ve got standard media keys, home, page-up/page-down, and even scroll-up/scroll-down all in the function layer. It also has the arrow keys in the WASD *and* IJKL positions unlike the Poker II which has them in the WASD position and the Pok3r which has them in the IJKL. Options are nice and it’s actually the reason I have little use for the Pok3r over the Poker II, (although, nothing beats the `[;’/` arrow keys as featured on the HHKB). 
 
@@ -40,29 +40,29 @@ I’ve built a few keyboards in my day so I didn’t feel worried about messing 
 - Solder the chip
 - Install drivers, create and upload firmware, or whatever the situation might be for your particular board. 
 
-![](img/Tex/parts.JPG)
-![](img/Tex/parts1.JPG)
-![](img/Tex/parts3.JPG)
-![](img/Tex/parts5.JPG)
+![Included parts of the Tex Yoda Keyboard](img/Tex/parts.JPG)
+![Tex Yoda circuit board](img/Tex/parts1.JPG)
+![Tex Yoda circuit board and plate](img/Tex/parts3.JPG)
+![Tex Yoda controller](img/Tex/parts5.JPG)
 
 The Yoda came with the case, two PCBs, a plate, some wires, an attachment for the underside of the case, screws, and some other boring stuff. 
 
-![](img/Tex/switches.gif)
+![Tex Yoda and cherry mx clear switches](img/Tex/switches.gif)
 
 After monotonously snapping each switch in their proper spot, flip it over, be sure all the switch’s pins are straight, and align the PCB so it falls onto each switch. 
 
-![](img/Tex/upsidedown.JPG)
-![](img/Tex/wpcb.JPG)
+![Cherry MX Clear Switches applied onto the TEX Yoda plate](img/Tex/upsidedown.JPG)
+![Cherry MX Clear Switches applied onto the TEX Yoda plate with the circuit board placed on top](img/Tex/wpcb.JPG)
 
 Unfortunately, I cannot solder and take pictures simultaneously but if you look closely you can see each soldered switch. Next, alight the TrackPoint in the case and place the PCB over it. 
 
-![](img/Tex/soldered.JPG)
-![](img/Tex/trackalign.JPG)
+![Soldered Cherry switches onto the TEX Yoda circuit board](img/Tex/soldered.JPG)
+![TEX Yoda circuit board inside the case](img/Tex/trackalign.JPG)
 
 Finally, add your keycaps and TrackPoint and enjoy your new keyboard!
 
-![](img/Tex/complete.JPG)
-![](img/Tex/texyellow.png)
+![TEX Yoda and HHKB Type-S](img/Tex/complete.JPG)
+![TEX Yoda with Yellow and Black keycaps](img/Tex/texyellow.png)
 
 
 <div class="message">
