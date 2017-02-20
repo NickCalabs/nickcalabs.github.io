@@ -31,7 +31,7 @@ What is the main purpose of our mind? A simple question with a complicated answe
 
 A very simple example given goes like this: We recognize letters and words. We can break down the characters into shapes that our mind will notice straight away. Apple, for example, is something we see very often — whether reading about iPhones or your local grocery store flyer. We don’t actually read the whole word, though. We see the shape of the word in its entirety and say, “oh yes, apple”. If we see just the first three letter, it might bring up visions of an icon on your phone, however. With just the first four characters, Appl, the mind predicts what is coming next. It actually predicts the future and places an ‘E’ at the end of that word to save you time. 
 
-It isn’t hard to imagine how this plays out on a larger scale. A similar phenomenon is chronostasis. This doesn’t only predict the future, but also replaces the past and fills gaps in your mind. Vsauce has a quality video explaining the stopped clock illusion where he explains how moving your eyes quickly enough can trigger your mind into inserting an image in that split second of blur. Your brain is helping you make sense of the real world but can also deceive you into thinking you saw something you did not. 
+It isn’t hard to imagine how this plays out on a larger scale. A similar phenomenon is chronostasis. This doesn’t only predict the future, but also replaces the past and fills gaps in your mind. Vsauce has a [quality video explaining the stopped clock illusion](https://www.youtube.com/watch?v=nNBTLbw1_2Q) where he explains how moving your eyes quickly enough can trigger your mind into inserting an image in that split second of blur. Your brain is helping you make sense of the real world but can also deceive you into thinking you saw something you did not. 
 
 
 ##Memory
@@ -70,7 +70,7 @@ The text gives some good insight into how dreams are conjured up. The big idea i
 
 ##Mind vs. Computer
 
->No, I’m not interested in developing a powerful brain. All I’m after is just a mediocre brain, something like the President of the American Telephone and Telegraph Company. ~ Alan Turing”
+>No, I’m not interested in developing a powerful brain. All I’m after is just a mediocre brain, something like the President of the American Telephone and Telegraph Company. ~ Alan Turing
 
 ###Lisp
 Kurzweil refers to Lisp as the dominant programming language for AI related projects. Although the creator of Lisp (LISt Processor), John McCarthy, coined the term “artificial intelligence” (AI), there is a lot of debate over the best language — another popular one is Prolog. Jumping to the conclusion here is slightly uncomfortable because Lisp is directly compared to our neocortex. 
@@ -89,6 +89,6 @@ Kurzweil has commented on Chomsky’s remarks by saying it’s one of the most i
 
 ##Conclusion
 <i>How to Create a Mind: The Secret of Human Thought Revealed</i> has enlightened me in many ways. 
-It’s crucial to understand the mind in order to break the barriers of science and technology. By understanding the hippocampus’ job and knowing it is the first step in a widespread disease, we’re able to pinpoint what needs to be fixed and can more easily develop an implant to resolve or mitigate the damage.
+It’s crucial to understand the mind in order to break the barriers of science and technology. By understanding the hippocampus’ job and knowing its failure is the first step in a widespread disease, we’re able to pinpoint what needs to be fixed and can more easily develop an implant to resolve or mitigate the damage.
 
 To fully understand a computer you should learn how to code and to be a better driver you should take apart the engine. There’s a lower level to everything that must be understood to accomplish any innovation. Although I haven’t learned enough to build a mind myself, I feel accomplished enough to notice what’s going on up there when I recall a novel idea or catch a baseball.
