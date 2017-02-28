@@ -62,8 +62,11 @@ The Lindy Effect shows that a book that has been in print for forty years can be
 
 >Never trust the words of a man who is not free.
 
-T.E. Lawrence, nicknamed *Lawrence of Arabia* (titular character in one of my top three favorite movies next to the original [King Kong](http://www.imdb.com/title/tt0024216/) and [To Kill a Mockingbird](http://www.imdb.com/title/tt0056592/)) made a deal with the Arab desert tribes. The tribes eventually reneged on the agreement. Taleb believes the word of a mobster is worth more than that of a civil servants because they’re much less fragile. The honor of an individual is worth much more to that person than the honor of a nation to a servant. 
+T.E. Lawrence, nicknamed *Lawrence of Arabia* (titular character in one of my top three favorite movies next to the original [King Kong](http://www.imdb.com/title/tt0024216/) and [To Kill a Mockingbird](http://www.imdb.com/title/tt0056592/)) made a deal with the Arab desert tribes. The tribes eventually reneged on the agreement. Taleb believes the word of a mobster is worth more than that of a civil servant because they’re much less fragile. The honor of an individual is worth much more to that person than the honor of a nation to a servant. 
 
 >How you do anything is how you do everything.
 
 A fragile mindset revolves around the *halo effect*. It assumes the skills of one field would translate perfectly to another field. If you’re a great football quarterback you can run a business. If you’re a top programmer you’d make a great significant other. A flawed way of thinking, according to Taleb, relies on how good someone might be at talking or how confident they might be regarding their ego. In reality it’s perfectly possible someone with skills in one area applying those skills to another will be extremely fragile. An entrepreneur is not measured by the conversation they hold but the product they produce. 
+
+##Conclusion
+Ultimately, *Antifragile* has opened my eyes in many ways. Reading the book twice already has not made me any more antifragile than I already was, but has taught me how to embrace my antifragility and channel it correctly. I look forward to becoming less fragile as time goes on.
