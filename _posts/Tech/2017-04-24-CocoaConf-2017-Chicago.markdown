@@ -26,9 +26,13 @@ I really enjoyed giving a quick and dirty rant to the entire [CocoaConf](http://
 Here are some resources to get your started on your keyboard journey.
 
 [MechanicalKeyboards.com](http://mechanicalkeyboards.com)  
+
 [r/MechanicalKeyboards](http://reddit.com/r/mechanicalkeyboards)  
+
 [Massdrop](http://Massdrop.com)  
+
 [WASD](http://www.wasdkeyboards.com/)  
+
 [CODE Keyboard](https://codekeyboards.com/)  
 
 Don't hesitate to reach out if you're confused about keycaps, cases, switches, anything at all! I'm happy to help. Email (nick [at] nickcalabro.com), [Tweet](http://twitter.com/nickcalabs), or however else you'd like to get in touch. 
