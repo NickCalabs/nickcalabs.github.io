@@ -20,14 +20,14 @@ Years ago, I was first exposed to this world by following [Marc Andreessen](http
 I didn’t really know what to expect from this book; I figured it was going to be a walkthrough of how Horowitz and Andreessen met and eventually created [Andreessen Horowitz](https://twitter.com/a16z) — and it had some of that. What I wasn’t expecting was a nearly explicit tutorial on how to start and manage a company. It turned out to be a really great goldmine and reference to all the nuances building a business might entail.
 
 
-##Just Win, Baby
+## Just Win, Baby
 
 The beginning chapters of <i>The Hard Thing About Hard Things</i> explains how Ben Horowitz met Marc Andreessen and takes us through some of the early days of his career when he was running Loudcloud and Opsware. If nothing else, Ben’s story makes you extremely sure he’s more than qualified to be telling us how to run a company since he’s taken failing companies and turned them into success stories with higher stock prices when he’s through.
 
 I’ll refrain from going into too much detail on the biography side of things as I find the core of the text to be in the following chapters, but the ultimate idea is that Opsware IPO’d at $6, fell all the way to $0.35, and rose to $14.25 by the time it was sold to HP. With those numbers alone, it’s clear management was top-notch at the company.
 
 
-##Management
+## Management
 
 The text quickly gets in to more logistical aspects of companies. Being interested in productivity, systems, and such, the book started really heating up for me here.
 
@@ -40,14 +40,14 @@ Keeping employees is more directed toward the trajectory of the actual company. 
 Training plays a large part in your business as well. Defining the role, organizing tasks, and being certain everyone knows exactly what they’re doing will make or break the productivity of the office. Horowitz even expresses frustration when employees at Netscape were unsure of their jobs due to lack of training — specifically the product managers. There are many guidelines set out for product managers in the text as well. Good product managers value discipline, are not told what to do, ask quality questions, decompose problems properly, and ultimately know good products.
 
 
-##Big Company Execs vs. Small Company Execs
+## Big Company Execs vs. Small Company Execs
 
 The time will eventually come when the board of a company suggests hiring some high-level executive with outstanding résumés to really kick the business into high-gear. The problem is that a Marketing Director from, say, Coca-Cola, has a very different role than the Marketing Director at your 2-year old tech startup. One of the key differences is simply behavioral. The Big Company Exec will be conditioned to wait for emails, phone calls, and make important decisions. These are valuable skills that require experience and will help immensely in a large company, but building a company is very different than running an already established company — this is also why, for example, Steve Jobs was a fine CEO at Apple, Inc. only after a few more CEO-like people took care of the role before him.
 
 Anyone motivated by equity looking to get in on a small company is someone you do not want on your team. Any percent of zero is still zero. The biggest reason to get in on a small and growing company is to wear different hats, be creative, and build something from nothing with a great team.
 
 
-##Bad Employees
+## Bad Employees
 
 <i>The Hard Thing About Hard Things</i> has some great scenarios regarding bad employees. Firstly, it is said hiring is one of the most important and difficult jobs while building a company. Deciding who is a good cultural fit and who exhibits the right (or wrong) characteristics is impossible to decipher in just a few interviews. It is recommended to jot down exactly which skills are necessary for the role, and which weaknesses can be tolerated; this will make for a fine guideline on who can assume the roles.
 
@@ -56,7 +56,7 @@ The text gives three examples of poor employees: <b>The Heretic</b>, <b>The Flak
 NFL Coach John Madden once stated that he would <i>hold</i> the bus for a player like Terrell Owens. Owens was an exceptional player in that he was extremely good and a jerk.
 
 
-##Keeping Calm
+## Keeping Calm
 
 Focus on the road, not the wall. The text explains the old driving adage applies to life and running companies as well. When you look at the wall which represents death, crash, and failure, you’re focusing on the wrong thing. Look ahead at the road to where you’re going and what you’re going to accomplish and the wall may as well not even be there.
 

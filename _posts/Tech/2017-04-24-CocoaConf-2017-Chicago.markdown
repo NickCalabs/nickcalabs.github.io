@@ -13,7 +13,7 @@ excerpt: "Learned a lot and taught a lot during my technical talk!"
 
 ![Conf](img/cocoabadge.JPG)
 
-##Tech Talk
+## Tech Talk
 
 I really enjoyed giving a quick and dirty rant to the entire [CocoaConf](http://cocoaconf.com/chicago-2017/home) conference about mechanical keyboards and how they can help us developers master our craft. Between expressing ourselves with keyboard customization and improving our health by preventing RSI, there are so many reasons to give a lot of thought into what we're slamming our fingers on for ten hours a day. 
 

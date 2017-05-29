@@ -13,7 +13,7 @@ excerpt: "The Tex Yoda: Aluminum body, features a trackpoint, and more."
 
 <div class="message">The following was typed with a HHKB</div>
 
-##The Board
+## The Board
 
 The Tex Yoda is a somewhat coveted board in [the](http://reddit.com/r/mechanicalkeyboards) [keyboard](https://geekhack.org/) [community](https://deskthority.net/). Its limited availability and heavy price tag make it very rare. However, this keyboard has some very unique features along with high-quality parts to make it all worth it. 
 
@@ -29,7 +29,7 @@ The layout, though not incredibly special as it’s almost exactly what you’d 
 
 If you’ve never used a 60%, this is a great one to do some learning on. Although the Yoda isn’t fully programmable it offers some unique shortcuts I haven’t found on any other boards. You’ve got standard media keys, home, page-up/page-down, and even scroll-up/scroll-down all in the function layer. It also has the arrow keys in the WASD *and* IJKL positions unlike the Poker II which has them in the WASD position and the Pok3r which has them in the IJKL. Options are nice and it’s actually the reason I have little use for the Pok3r over the Poker II, (although, nothing beats the `[;’/` arrow keys as featured on the HHKB). 
 
-##The Build
+## The Build
 
 I’ve built a few keyboards in my day so I didn’t feel worried about messing up this expensive board. Building keyboards is usually a very straightforward process:
 

@@ -15,7 +15,7 @@ excerpt: "Welcome. This is the will walk you through how to build a blogging app
 <div class="message">This is one large post covering, in detail, how to <a href="http://nameless-dusk-8821.herokuapp.com">create this blog with Ruby on Rails</a> from backend to frontend. 
 </div>
 
-##Rails New
+## Rails New
 
 The website you are on right now is a fairly basic blog written in Ruby on Rails. It allows users to create posts and involves some pretty exciting syntax highlighting and Bootstrap integration. In a series of articles, I will go through, step by step, how to create this very site - from rails new all the way to deployment.
 
@@ -39,7 +39,7 @@ From here, navigate to `http://localhost:3000`. You should see this screen letti
 
 <img src="/img/{{ page.image }}">
 
-##Git Init
+## Git Init
 
 Open up your project in your favorite text editor. You should see a whole file tree including app, bin, config, and whatnot. We’re going to touch nearly everything here so be patient. While we’re here, now might be a good time to create our git repository. In your terminal, type:
 
@@ -101,7 +101,7 @@ At this point, if you refresh your browser (be sure your server is still running
 <% end %>
 ```
 
-##Rake
+## Rake
 
 Navigate to `localhost:3000/posts/new` and enjoy the view of the wonderfully boring form you just created. Now, if you hit submit on this page, your data isn’t going to really go anywhere. The next step is to generate a model. Head over to your terminal and repeat after me:
 
@@ -138,7 +138,7 @@ class PostsController < ApplicationController
 end
 ```
 
-##Show
+## Show
 Before we create a post, we have to create the show page. Again, under `app/views/posts`, create a new file called `show.html.erb`. Here, we’re going to want to display the title and body of our posts. Also, I threw in some interesting code to get the date of the post to show up as well.
 
 ```html
@@ -167,7 +167,7 @@ Then, in `index.html.erb` we need to create a loop to display all our posts.
 
 Go ahead and commit have you have with git.
 
-##Styling
+## Styling
 
 Our app has very little functionality - which is good. At least it has some functionality. Before we continue, though, I think we should add some styling so we’re not looking at any gross basic HTML structuring. The first thing we’re going to do here is add Bootstrap. In your terminal, create a new branch. This way, if we screw something up, we can always revert back to where we are now and start breathing at a normal rate again.
 
@@ -200,7 +200,7 @@ You can follow along with how I went about this in the <a href="https://github.c
 </div><!--/span-->
 ```
 
-##Navbar
+## Navbar
 
 For the sake of making what we have a little more presentable and to give us some instant gratification we’re going to add some Bootstrap markup to this. Right now, we see Bootstrap generated a nice nav bar for us. It’s cute, but it’s not what I have here, and we’re building this very site. To achieve the transparent nav with links floating on the right while maintaining a nice dropdown toggle for mobile I had to do a few things. First fix your `navbar-brand`, because that’s probably not how you want that displayed. I did it like this:
 
@@ -244,7 +244,7 @@ git branch -d style
 
 Now that you have something that looks pretty, we can commit these changes, merge them, delete the style branch and add some crazy functionality next. 
 
-##Validate
+## Validate
 
 Right now, you can create a post with absolutely no content inside. In your `app/models/post.rb` file, we’re going to want to add some validations.
 
@@ -271,7 +271,7 @@ def create
 end
 ```
 
-##Errors
+## Errors
 
 Now, if you try to make a post at `localhost:3000/posts/new` and your title is not at least five characters, you won’t be able to post it. But, this isn’t very intuitive. Sure, you know about that rule now, but you might forget. A simple error message can really come in handy. So, near the form in `new.html.erb` add this right under the `form_for` and right before the first `<p>` tag:
 
@@ -288,13 +288,13 @@ Now, if you try to make a post at `localhost:3000/posts/new` and your title is n
 <% end %>
 ```
 
-##Partial
+## Partial
 
 While we’re here, cut everything from this file except the `h1` tag on top and create a new file in the same directory called `_form.html.erb`. This is a special type of file called a partial that’ll allow you to throw snippets like the form into. These types of coding practices will help keep our programs more DRY. Paste the whole form in there and just change the first line from `<%= form_for :post, url: posts_path do |f| %>` to `<%= form_for @post do |f| %>` - this will ensure our form is dynamic enough to be passed around the application. Now in `new.html.erb` just add `<%= render ‘form’ %>`. Go ahead and test out a new post to find nothing has changed on the front end.
 
 I’m sure you know how to commit your work with git at this point.
 
-##Edit/Update
+## Edit/Update
 
 Let’s face it, you’re never going to write a whole post the right way on the first try. Hell, this post probably has so many typos I’m surprised you’re still reading it. Adding update and edit functionality is fairly easy in our Rails app. Here’s the extra code you’ll need in the `posts_controller.rb`:
 
@@ -332,7 +332,7 @@ This is great. We have all this functionality, but there are no links to get to 
 
 With that, we now have all the CRUD features for our blog. Create, read, update, and destroy all the blog posts you’d like. We’re still not quite finished, though, but we’re nearly there.
 
-##Users
+## Users
 
 Right now, anyone can come into your application and start deleting your posts - or worse, they can make their own posts. Our application is great and all, but it has no idea who you are. We’re going to fix that right now with <a href="https://github.com/plataformatec/devise">Devise</a>. First step for this is to add the gem to our Gemfile. We did this before while adding Bootstrap. Simply append `gem 'devise', '~> 3.4.0'` and run `bundle install`. Restart your server and run `rails g devise:install`. This will prompt some instructions for you. Step five should be to install the Devise views, we’ll do that by running `rails g devise:views`.
 
@@ -340,7 +340,7 @@ Now, run `rails g devise User`, `rake db:migrate` and navigate to <a>localhost:3
 
 All that is left is to make sure you have to be signed in to access the edit and delete links. This one’s easy, in `show.html.erb`, wrap the edit and delete links in `<% if user_signed_in? %>` and `<% end %>`. Commit all of this.
 
-##Heroku Create
+## Heroku Create
 
 Deploying your app can be the hardest part. I went through many different attempts to try and get this app running as smooth as I can, since I wasn’t prepared to handle sysadmin stuff at this point in time, I ended up making it a separate little app on Heroku instead.
 

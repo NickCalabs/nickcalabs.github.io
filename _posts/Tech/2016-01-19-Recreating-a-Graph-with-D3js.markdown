@@ -16,10 +16,10 @@ The data visualization is interesting here. Made with <a href="http://www.highch
 
 Something like this can be easily done with <a href="http://d3js.org/">D3</a>. First, get the skeleton of your site ready, import D3 and create a single divthis will be the only markup for the entire visualization.
 
-##Script Tag
+## Script Tag
 All the magic occurs in the script. First we create our data with a simple array. Defending the colors early is important as well. The initial r variable is the radius that defines the whole svg. The canvas and group vars are also for sizing and placement on the webpage. innerRadius and outerRadius being different are what give our graph the pie shape with the hole.
 
-##Choosing Colors
+## Choosing Colors
 Be careful when coloring your visualization. D3 has some functions that will color your graph with 10, 20, 30 and more color combinations. This can be tricky once you have more than ten slices of your pie, though. One set after the other might have an identical color with a different opacity; this might lead a viewer to believe the two values are related when really they could have nothing to do with each other. This happens once you use `d3.scale.category20()`. Instead, you could choose all your own colors with `d3.scale.ordinal() .range([‘red’, ‘blue’, #E55D63]);` and however many you’d like.
 
 ![pie chart using catergory10](https://raw.githubusercontent.com/NickCalabs/nickcalabs.github.io/master/img/category10.png)
@@ -35,7 +35,7 @@ category20()
 ordinal() .range(['red', 'blue', 'yellow']);
 ```
 
-##Conclusion
+## Conclusion
 There is a lot more you can do with D3. I’ll follow this up with another post on how to make it more interactive. I’d like a tooltip to appear on hover and have the legend interact with hovering as well. It can be seen live here. Thanks for your time
 
 <div class="message">
