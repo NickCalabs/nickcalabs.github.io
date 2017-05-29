@@ -15,13 +15,13 @@ excerpt: "Work/life balance, politics, feminism - This book has it all."
 
 Kirsten Gillibrand’s *Off the Sidelines* starts of as an inspiring tale of a young lady who ventures into politics. A wonderful display of feminism turns quickly into a powerful political piece while even still touching on the personal issues of Gillibrand’s personal and professional life. 
 
-##Issues
+## Issues
 
 Coming from a mother, senator, and wife, the issues of affordable daycare and paid family sick leave weigh much more than if they came from someone else. Gillibrand shuns the thought that many people believe women are greedy or entitled by wanting to earn a living and care for their family. Gillibrand states how government should celebrate families and help them thrive instead of throttling them by making it more difficult to earn a living.
 
 To drive home the good Gillibrand is trying to accomplish while in office, some other issues she cares deeply about are the repeal of *Don’t ask, don’t tell* and the passing of the 9/11 healthcare bill. Sponsored by herself along with Carolyn Maloney, the [James Zadroga 9/11 Health and Compensation Act](https://en.wikipedia.org/wiki/James_Zadroga_9/11_Health_and_Compensation_Act) is meant to provide health monitoring and financial aid to first responders of the 9/11 attacks. With numerous responders and volunteers visiting Washington to tell their stories of what it was like at the World Trade Center, it was a relief to many the bill finally passed in 2011 - even if the Senator did have to eat her pride and cry on the Senate floor for the cause.
 
-##Ambition
+## Ambition
 
 Ambition is an interesting thing in politics that Gillibrand happily digs deep into. Three lovely rules that are laid out in the text regarding ambition go like this: 
 
@@ -33,7 +33,7 @@ This last one is my favorite.
 
 Interestingly and unfortunately, ambition translates negatively in politics. Gillibrand discusses how ambition might make someone look weak. Perhaps intentional and untruthful humility is better as a politician than, more accurately, ambition.
 
-##Appearance
+## Appearance
 
 Keeping with the trend of discussing the differences between men and women in a professional environment — and especially in Washington - the topic of how we present ourselves and how we appear to others is a heavy one. 
 
@@ -47,12 +47,12 @@ More attention should always go to what is being said by someone rather than whi
 
 >"Be Kind" ~ Kirsten Gillibrand
 
-##Work–life balance
+## Work–life balance
 
 I don’t pretend to understand the potential struggles and certain joys of having a nuclear family while maintaining a career. The text beautifully lays out some lovely and some inconvenient instances where the work/life balance had to be carefully considered and got in the way of the senator’s agenda. 
 
 Gillibrand was in a meeting for 12 hours and skipped her dinner break to attend to a fundraiser. Tired, cramping, and in pain the entire meeting, she muddles through and manages to exit the meeting professionally and with everyone else as to not draw any attention. That night her water breaks and eventually delivers her son. Perhaps an extreme example, but one that very much stuck with me as a prime time to really consider your work/life balance.
 
-##The Book
+## The Book
 
 Ultimately, Kirsten Gillibrand’s *Off The Sidelines* can resonate with just about anyone. Whether you’re looking for politics, discussions on gender, or even a little bit of biographical storytelling, this text will provide insight on just about anything that is relevant today.
