@@ -13,13 +13,13 @@ excerpt: "Work/life balance, politics, feminism - This book has it all."
 
 <div class="message">The following was typed with a HHKB</div>
 
-Kirsten Gillibrand’s *Off the Sidelines* starts of as an inspiring tale of a young lady who ventures into politics. A wonderful display of feminism turns quickly into a powerful political piece while even still touching on the personal issues of Gillibrand’s personal and professional life. 
+Kirsten Gillibrand’s *Off the Sidelines* starts off as an inspiring tale of a young lady who ventures into politics. A wonderful display of feminism turns quickly into a powerful political piece while even still touching on the personal issues of Gillibrand’s personal and professional life. 
 
 ## Issues
 
 Coming from a mother, senator, and wife, the issues of affordable daycare and paid family sick leave weigh much more than if they came from someone else. Gillibrand shuns the thought that many people believe women are greedy or entitled by wanting to earn a living and care for their family. Gillibrand states how government should celebrate families and help them thrive instead of throttling them by making it more difficult to earn a living.
 
-To drive home the good Gillibrand is trying to accomplish while in office, some other issues she cares deeply about are the repeal of *Don’t ask, don’t tell* and the passing of the 9/11 healthcare bill. Sponsored by herself along with Carolyn Maloney, the [James Zadroga 9/11 Health and Compensation Act](https://en.wikipedia.org/wiki/James_Zadroga_9/11_Health_and_Compensation_Act) is meant to provide health monitoring and financial aid to first responders of the 9/11 attacks. With numerous responders and volunteers visiting Washington to tell their stories of what it was like at the World Trade Center, it was a relief to many the bill finally passed in 2011 - even if the Senator did have to eat her pride and cry on the Senate floor for the cause.
+To emphasize the good Gillibrand is trying to accomplish while in office, some other issues she cares deeply about are the repeal of *Don’t ask, don’t tell* and the passing of the 9/11 healthcare bill. Sponsored by herself along with Carolyn Maloney, the [James Zadroga 9/11 Health and Compensation Act](https://en.wikipedia.org/wiki/James_Zadroga_9/11_Health_and_Compensation_Act) is meant to provide health monitoring and financial aid to first responders of the 9/11 attacks. With numerous responders and volunteers visiting Washington to tell their stories of what it was like at the World Trade Center, it was a relief to many the bill finally passed in 2011 - even if the Senator did have to eat her pride and cry on the Senate floor for the cause.
 
 ## Ambition
 
@@ -35,7 +35,7 @@ Interestingly and unfortunately, ambition translates negatively in politics. Gil
 
 ## Appearance
 
-Keeping with the trend of discussing the differences between men and women in a professional environment — and especially in Washington - the topic of how we present ourselves and how we appear to others is a heavy one. 
+Keeping with the trend of discussing the differences between men and women in a professional environment — and especially in Washington — the topic of how we present ourselves and how we appear to others is a heavy one. 
 
 Wrongfully, women are much more pressured to be thin and sexy. There are countless more diet plans and workout routines that are geared specifically for women because the media and such make it sinful to ever *let go*. It has even been attributed to these wild and untested diets for women *aging* faster than men — which is exactly the opposite of what anybody wants — male or female. 
 
