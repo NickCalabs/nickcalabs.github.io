@@ -12,14 +12,14 @@ excerpt: "Focusing on the end goal of your life can help accomplish that goal"
 <meta name="twitter:description" content="Nick Calabro's Blog" />
 
 <style type="text/css">
-	.facebook-responsive {
+	.fb-respond {
     overflow:hidden;
     padding-bottom:56.25%;
     position:relative;
     height:0;
 }
 
-.facebook-responsive iframe {
+.fb-respond iframe {
     left:0;
     top:0;
     height:100%;
