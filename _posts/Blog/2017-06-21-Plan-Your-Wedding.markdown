@@ -11,13 +11,32 @@ excerpt: "Focusing on the end goal of your life can help accomplish that goal"
 <meta name="twitter:title" content="{{ page.title }}" />
 <meta name="twitter:description" content="Nick Calabro's Blog" />
 
+<style type="text/css">
+	.facebook-responsive {
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+}
+
+.facebook-responsive iframe {
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}
+</style>
+
 <div class="message">The following was typed with a HHKB</div>
 
 I hear, all the time, young chaps tell me about their wedding. I respond with, “You’re married? You’re only 19”. They’ll chuckle and quickly explain they’re not married yet but have the entire affair planned out. Some might see this activity as presumptuous, eager, or even unhealthy - I say it’s genius. 
 
 If you were told to focus on a certain color you’d immediately scan the area and find all instances of that color. If you told yourself you’re going to buy a certain type of car, you’d immediately start noticing all of those cars currently on the road; you might even think there are more cars like this since you started thinking about it. It’s called the Baader Meinhof effect and you can use it to your advantage.
 
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fnickcalabs%2Fvideos%2F1829431847375119%2F&show_text=1&width=560" width="560" height="625" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+<div class="fb-respond">
+	<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fnickcalabs%2Fvideos%2F1829431847375119%2F&show_text=1&width=560" width="560" height="625" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+</div>
 
 By focusing on your end goal you’ll end up seeing opportunity and taking action toward that goal without even realizing it. This goes far beyond planning your wedding, the partner, and what you plan on serving during the cocktail hour. If your end goal is to write a New York Times Bestseller, become an Oscar-winning director, or even to be president of your child’s school’s PTA, your day-to-day life will revolve around those goals. Next time you find a writing opportunity, chance to speak with a successful director, or mingle with suburban parents, you’re much more likely to take action since that goal is in the back of your mind and everything you do should be making that more and more possible every day.
 
