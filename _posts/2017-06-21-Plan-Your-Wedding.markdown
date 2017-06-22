@@ -3,7 +3,7 @@ layout: post
 title: "The Genius Who Planned Her Entire Wedding, Career, and Life"
 category: Blog
 author: Nick Calabro
-excerpt: "Focusing on the end goal of your life can help accomplish that goal "
+excerpt: "Focusing on the end goal of your life can help accomplish that goal"
 ---
 
 <meta name="twitter:card" content="summary" />
