@@ -54,7 +54,7 @@ excerpt: "When you have an idea what do you do with it? How and where do you fil
 
 <h3>Calling Brad</h3>
 
-<figure><img src="org-breakdown.png"/></figure>
+<figure><img src="img/org-breakdown.png"/></figure>
 
 <p>Delving into this task and recognizing the keywords help us organize and track it. <em>Call</em> means it’s going in a project, context, or list of all the calls we have to make. </p>
 
@@ -109,6 +109,8 @@ excerpt: "When you have an idea what do you do with it? How and where do you fil
 <p>It’ll be very hard to determine what has to go where and why you recorded something later on. Your mind is in the moment and motivated right now. File the task in the right area and add any lingering notes to it as soon as you have it so you can really take action on it later and avoid anything slipping through the cracks. </p>
 
 <p>Remember, there’s no <em>correct</em> system. Whatever works for you is the right way.</p>
+
+<hr>
 
 <ol id="footnotes">
     <li id="fn1">Defining <em>projects</em> is a little more complex, but we’ll talk about that in another post. <a href="#ffn1">&#x21A9;&#xFE0E;</a></li>
