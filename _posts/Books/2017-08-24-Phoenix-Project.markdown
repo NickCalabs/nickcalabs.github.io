@@ -25,6 +25,8 @@ Toward the beginning of the story when we’re learning more about Phoenix, ther
 
 It’s a real eye-opener when you don’t realize there is true damage being done by building another feature and adding more complexity to your project. Deployment intervals were being lengthened just for the opportunity to build more features which ultimately causes more bugs than anything else. 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q0JscA-ABLI" frameborder="0" allowfullscreen></iframe>
+
 ## Parts Unlimited
 
 The company the story revolves around is less important than the day-to-day operations that occur inside it. It is fun to create an entire world around the main story, though. 
