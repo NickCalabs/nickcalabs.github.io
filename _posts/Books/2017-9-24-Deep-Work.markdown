@@ -13,6 +13,8 @@ excerpt: "Learn to say no effectively."
 
 <div class="message">The following was typed with a HHKB</div>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GL3IMOymNK0" frameborder="0" allowfullscreen></iframe>
+
 <p>James Altucher’s second-most-recent publication, <em>The Power of No: Because One Little Word Can Bring Health, Abundance, and Happiness</em> gets deeper than I would’ve anticipated. Seemingly, the book would touch upon ways that saying <em>no</em> can help you achieve the things you truly want to do and how we please people all the time when we know we shouldn’t. It <em>does</em> go into nearly all of these points but there are other aspects to this idea I would’ve never considered. </p>
 
 <figure><img src="img/powerofno.png"/></figure>
