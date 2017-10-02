@@ -11,7 +11,7 @@ excerpt: "Who knew there were so many ways to gain traction and perform marketin
 <meta name="twitter:title" content="{{ page.title }}" />
 <meta name="twitter:description" content="Nick Calabro's Blog" />
 
-<div class="message">The following was typed with a [TEX Yoda](http://nickcalabro.com/TEX-Yoda-Build-Log-and-Review)</div>
+<div class="message">The following was typed with a <a href="http://nickcalabro.com/TEX-Yoda-Build-Log-and-Review">TEX Yoda</a></div>
 
 <p>Gabriel Weinberg and Justin Mare’s <em> Traction: How Any Startup Can Achieve Explosive Customer Growth</em> is a wonderful aggregation of interviews, insights, real-world trial and errors, and inspiration. It’s packed with information that is actionable and easy to stick in your back pocket for when you face interesting issues that you would never consider being prepared for. </p>
 
@@ -87,7 +87,7 @@ excerpt: "Who knew there were so many ways to gain traction and perform marketin
 
 <h2>Product vs. Marketing</h2>
 
-<p>It may surprise you just how highly <em>Traction</em> regards marketing. Toward the start of the text, the 50% rule is introduced outlining how half of your time should focus on the product while an entire second half should be focused on marketing and ultimately getting traction. Some might glorify <em>not</em> focusing on traction because it would imply they have a superior product that didn’t require marketing, but Silicon Valley investors disagree. Marc Andreessen says: </p>
+<p>It may surprise you just how highly <em>Traction</em> regards marketing. Toward the start of the text, the 50% rule is introduced outlining how half of your time should focus on the product while an entire second half should be focused on marketing and ultimately getting traction. Some might glorify <em>not</em> focusing on traction because it would imply they have a superior product that didn’t require marketing, but Silicon Valley investors disagree. <a href="https://techcrunch.com/2012/05/12/marc-andreessen-visits-peter-thiels-stanford-class-to-talk-startups-how-he-invests-the-future/">Marc Andreessen says</a>:</p>
 
 <blockquote>
 <p>The number one reason that we pass on entrepreneurs we’d otherwise like to back is focusing on product to the exclusion of everything else. We tend to cultivate and glorify this mentality in the Valley. We’re all enamored with lean startup mode. Engineering and product are key. There is a lot of genius to this, and it has helped create higher quality companies. But the dark side is that it seems to give entrepreneurs excuses not to do the hard stuff of sales and marketing. Many entrepreneurs who build great products simply don’t have a good distribution strategy. Even worse is when they insist that they don’t need one, or call no distribution strategy a “viral marketing strategy.”</p>
