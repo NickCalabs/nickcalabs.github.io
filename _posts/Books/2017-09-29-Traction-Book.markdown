@@ -13,6 +13,8 @@ excerpt: "Who knew there were so many ways to gain traction and perform marketin
 
 <div class="message">The following was typed with a <a href="http://nickcalabro.com/TEX-Yoda-Build-Log-and-Review">TEX Yoda</a></div>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PYJ5JHWGEOA" frameborder="0" allowfullscreen></iframe>
+
 <p>Gabriel Weinberg and Justin Mare’s <em> Traction: How Any Startup Can Achieve Explosive Customer Growth</em> is a wonderful aggregation of interviews, insights, real-world trial and errors, and inspiration. It’s packed with information that is actionable and easy to stick in your back pocket for when you face interesting issues that you would never consider being prepared for. </p>
 
 <figure><img src="img/traction.png"/></figure>
