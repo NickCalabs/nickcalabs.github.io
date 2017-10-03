@@ -14,7 +14,8 @@ You can find me on most places of the internet:
 [linkedin.com/in/nickcalabro](http://linkedin.com/in/nickcalabro)<br>
 [github.com/nickcalabs](http://github.com/nickcalabs)<br>
 [medium.com/@NickCalabs/](https://medium.com/@NickCalabs)<br>
-[calabro.nick@gmail.com](mailto:calabro.nick@gmail.com)
+[calabro.nick@gmail.com](mailto:calabro.nick@gmail.com)<br>
+[Youtube](https://www.youtube.com/channel/UCoxCY3F1S5PgFF_XaAKfUHw)
 
 [Resume](/resume.pdf)
 
@@ -22,5 +23,6 @@ You can find me on most places of the internet:
 	<a target="_blank" href="http://m.me/nickcalabs" style="margin-top: 5px; display: inline-block; width: 150px; height: 150px; background: url('img/messenger.png') no-repeat; background-size: 150px 150px;"></a>
 	<a target="_blank" href="https://www.snapchat.com/add/nickcalabs" style="margin-top: 5px; display: inline-block; width: 150px; height: 150px; background: url('img/snap.png') no-repeat; background-size: 150px 150px;"></a>
 	<a target="_blank" href="https://www.twitter.com/nickcalabs" style="margin-top: 5px; display: inline-block; width: 100px; height: 100px; background: url('img/twitter.JPG') no-repeat; background-size: 100px 100px;"></a>
+
 
 </div>
