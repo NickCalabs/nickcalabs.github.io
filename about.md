@@ -15,7 +15,7 @@ You can find me on most places of the internet:
 [github.com/nickcalabs](http://github.com/nickcalabs)<br>
 [medium.com/@NickCalabs/](https://medium.com/@NickCalabs)<br>
 [calabro.nick@gmail.com](mailto:calabro.nick@gmail.com)<br>
-[Youtube](https://www.youtube.com/channel/UCoxCY3F1S5PgFF_XaAKfUHw)
+[YouTube](https://www.youtube.com/channel/UCoxCY3F1S5PgFF_XaAKfUHw)
 
 [Resume](/resume.pdf)
 
