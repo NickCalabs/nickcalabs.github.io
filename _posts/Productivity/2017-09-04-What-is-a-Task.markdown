@@ -12,6 +12,8 @@ excerpt: "When you have an idea what do you do with it? How and where do you fil
 <meta name="twitter:title" content="{{ page.title }}" />
 <meta name="twitter:description" content="Nick Calabro's Blog" />
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VbgJZtiYhcg" frameborder="0" allowfullscreen></iframe>
+
 <p>Wasn’t it great being a student? Teachers and professors just laid all the tasks, assignments and exam dates, out for you. There was really no planning for you to do. Planning and deciding what everyone should be doing and when they should be doing it is the hard part. When new tasks and projects pop into your mind you don’t have a teacher or assistant to break it all down into step-by-step action items while telling you when to get it all done and by what date. <a href="https://www.instagram.com/p/BT2IOwJgUCd/">It is up to you, and doing <em>that</em> is the challenge we’ll work on today.</a></p>
 
 <p>There are multiple parts to getting this exactly right and it’ll take half a lifetime to get to a point where you feel truly comfortable with your system so we’ll just go over some ideas one at a time starting with <strong>Tasks</strong>. </p>
