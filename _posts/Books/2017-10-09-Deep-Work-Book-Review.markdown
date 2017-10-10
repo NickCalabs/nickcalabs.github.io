@@ -13,7 +13,7 @@ excerpt: "Avoid distractions, schedule your time, get into some Deep Work."
 
 <div class="message">The following was typed with a HHKB</div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=6hC2P5qKdPo" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6hC2P5qKdPo" frameborder="0" allowfullscreen></iframe>
 
 <p>How many times a day do you check your phone — what are you looking for? Are you trying to see breaking news about celebrity deaths, checking up on a live election you’re closely tied to, or something that has a large impact on the planet? Or are you just waiting for a new meme to be sent in one of the twelve 5+ participant group chats you’re in with all your different friend-groups? </p>
 
