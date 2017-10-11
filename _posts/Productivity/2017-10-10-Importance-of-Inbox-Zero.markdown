@@ -18,7 +18,7 @@ excerpt: "First installment on a long series of posts regarding the greatest and
 
 <p>Imagine your mailbox — your physical mailbox decorated with your family name and some artwork demonstrating your love for nature, the beach or whatever is appropriate to display on an envelope-collecting box. You walk up to the front stoop, find some mail in the mailbox from the day before without thinking much of it, inhale the fumes of the freshly cut grass, wave to the neighbors, pet the neighborhood dog as your friendly neighbor walks them on your sidewalk, and eventually see the mailman coming. In a panic, you want to empty your mailbox so the mailman doesn’t judge you for having your mail in there from the previous day. You find bills, tasks you have to take action on, <em>save the date</em>s for weddings you have to take note of, and even insurance information you have to tell the spouse about! </p>
 
-<figure><img src="imgusps.jpg"/></figure>
+<figure><img src="img/usps.jpg"/></figure>
 
 <p><strong>You’re doomed</strong>. The mailman makes his way over to your messy, unorganized mailbox where he drops more mail on top of the unallocated mail you currently have that has been piling up for days, weeks, maybe even years. Your overwhelmed and decide it’s not even worth organizing; you find contentment in your mess to the point where you revel in the piles of clutter and perhaps create some organized system on top of it. </p>
 
@@ -120,5 +120,5 @@ excerpt: "First installment on a long series of posts regarding the greatest and
 <p>We get it — email is hard, infinite, and sometimes just naturally a messy and unorganized place no matter how often you try keeping it in order. The big thing to keep in mind is how your inbox is just a place for your life’s information <em>just until you read it for the first time</em> and decide what to do it with immediately after. Adhering to the simple ideas of just clearing out your emails and inserting all the information in your other entities that are meant for them will clear your mind and make you infinitely more productive and responsive. </p>
 
 <ol id="footnotes">
-	<li id="fn1"><img src="disable-annoying-red-badge-alerts-for-apps-your-iphones-home-screen.w1456.jpg"/> The dreaded iOS badge count. Just <a href="http://osxdaily.com/2012/01/09/remove-red-badge-icons-from-apps-ios/">disable it</a> at that point.  <a href="#ffn1">&#x21A9;&#xFE0E;</a></li>
+	<li id="fn1"><img src="img/manyemail.jpg"/> The dreaded iOS badge count. Just <a href="http://osxdaily.com/2012/01/09/remove-red-badge-icons-from-apps-ios/">disable it</a> at that point.  <a href="#ffn1">&#x21A9;&#xFE0E;</a></li>
 </ol>
