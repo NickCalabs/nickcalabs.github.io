@@ -12,7 +12,7 @@ excerpt: "Deciding between a single-action item and an entire, multifaceted proj
 <meta name="twitter:title" content="{{ page.title }}" />
 <meta name="twitter:description" content="Nick Calabro's Blog" />
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PWin-7YJt5M" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/z4IuFIiuRak" frameborder="0" allowfullscreen></iframe>
 
 <p>You finally decide you’re going to start working out more. Maybe you’re given the task to bake the birthday cake for your nephew’s birthday party this upcoming Saturday. You’re a busy person and you have to take control of all these things that are consuming your life. Naturally, we’ll take out our phone or journal and scribble down &quot;work out more&quot; and &quot;birthday cake for Saturday&quot; in your to-do list. Although you may be compelled to get in and out of your task manager as soon as possible to avoid wasting time and being less productive, you have to describe things in such a way that your mind can both remember and properly take action upon them. </p>
 
@@ -37,7 +37,7 @@ excerpt: "Deciding between a single-action item and an entire, multifaceted proj
 <ul>
 	<li><strong>Find workout routine</strong>: This is a series of actions by itself. Unfortunately, you don’t have all the information and it’s unclear how long this will take. Researching various routines and making a decision <em>is</em> an action item but it always hurts accepting that you’re just deciding to decide. </li>
 	<li><strong>and</strong>: If you’re connecting two things together in your single-action task it’s probably not a single action and you should consider separating them or breaking them down into a project like we’re doing here. If you see a task with two tasks within it, you’re going to be using brainpower you should’ve already spent when recording it in the first place. You may even defer completing the task because it’s less comprehensible.</li>
-	<li><strong>start working out</strong>: A statement like this is telling you a <em>schedule</em> is in order. Blocking out time — <a href="nickcalabro.com/Deep-Work-Book-Review">like Cal Newport discusses in <em>Deep Work</em></a> — is a great way to ensure everything gets done and nothing falls through the cracks. When you see that you have every other morning blocked off for working out along with your to-do list encouraging you to check off that you worked out on those days, there are multiple parties holding you accountable.</li>
+	<li><strong>start working out</strong>: A statement like this is telling you a <em>schedule</em> is in order. Blocking out time — <a href="http://nickcalabro.com/Deep-Work-Book-Review">like Cal Newport discusses in <em>Deep Work</em></a> — is a great way to ensure everything gets done and nothing falls through the cracks. When you see that you have every other morning blocked off for working out along with your to-do list encouraging you to check off that you worked out on those days, there are multiple parties holding you accountable.</li>
 	<li><strong>more.</strong>: A statement like this is telling you <em>forming a habit</em> is in order. It’s great to schedule and allocate time, but at a certain point, you may want to make something so regular that you form a habit out of it like brushing your teeth, showering, and even falling asleep. </li>
 </ul>
 
