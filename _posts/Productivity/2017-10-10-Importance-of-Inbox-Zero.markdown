@@ -14,15 +14,13 @@ excerpt: "First installment on a long series of posts regarding the greatest and
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PWin-7YJt5M" frameborder="0" allowfullscreen></iframe>
 
-<h1>The Importance of Inbox Zero</h1>
-
 <p>Imagine your mailbox — your physical mailbox decorated with your family name and some artwork demonstrating your love for nature, the beach or whatever is appropriate to display on an envelope-collecting box. You walk up to the front stoop, find some mail in the mailbox from the day before without thinking much of it, inhale the fumes of the freshly cut grass, wave to the neighbors, pet the neighborhood dog as your friendly neighbor walks them on your sidewalk, and eventually see the mailman coming. In a panic, you want to empty your mailbox so the mailman doesn’t judge you for having your mail in there from the previous day. You find bills, tasks you have to take action on, <em>save the date</em>s for weddings you have to take note of, and even insurance information you have to tell the spouse about! </p>
 
 <figure><img src="img/usps.jpg"/></figure>
 
-<p><strong>You’re doomed</strong>. The mailman makes his way over to your messy, unorganized mailbox where he drops more mail on top of the unallocated mail you currently have that has been piling up for days, weeks, maybe even years. Your overwhelmed and decide it’s not even worth organizing; you find contentment in your mess to the point where you revel in the piles of clutter and perhaps create some organized system on top of it. </p>
+<p><strong>You’re doomed</strong>. The mailman makes his way over to your messy, unorganized mailbox where he drops more mail on top of the unallocated mail you currently have that has been piling up for days, weeks, maybe even years. You're overwhelmed and decide it’s not even worth organizing; you find contentment in your mess to the point where you revel in the piles of clutter and perhaps create some organized system on top of it. </p>
 
-<p>Neighbors look over to your mailbox (Mail app badge count<sup><a id="ffn1" href="#fn1" class="footnote">1</a></sup>) and cringe. You wonder why you even enjoy keeping everything in your email; there are other management programs that will allow you hoard this type of data. Email, however, is the one trusted system we all have in common. Email is such a standard we know we’ll always refer back to it in the future - so, if I need that coupon from six months ago, I can usually scroll past 100 unread emails until I find it nestled in my inbox. </p>
+<p>Neighbors look over to your mailbox (Mail app badge count<sup><a id="ffn1" href="#fn1" class="footnote">1</a></sup>) and cringe. You wonder why you even enjoy keeping everything in your email; there are other management programs that will allow you to hoard this type of data. Email, however, is the one trusted system we all have in common. Email is such a standard we know we’ll always refer back to it in the future - so, if I need that coupon from six months ago, I can usually scroll past 100 unread emails until I find it nestled in my inbox. </p>
 
 <p>Ultimately, you want to maintain an empty inbox at all times. Clear out, allocate, store, defer, and delegate things immediately so you have constant clarity. An initial purge of everything unneeded is necessary and it will hurt at first — <a href="https://www.youtube.com/watch?v=TvQViPBAvPk">the trick, however, is not minding that it hurts</a>. </p>
 
@@ -30,7 +28,7 @@ excerpt: "First installment on a long series of posts regarding the greatest and
 
 <p>Email is something different to all of us. Some keep their email as their todo list. They’ll favorite the emails they want to &quot;cross off&quot; today and keep the emails they need to get &quot;done&quot; this week unread. </p>
 
-<p>Some hate email and only use it when they have to while they get more and more excited about &quot;email killers&quot; like <a href="">Slack</a>. These people’s inboxes are usually filled with conversations they know they’ll have to reference later - which brings us to our next type of emailer: The Referencer.</p>
+<p>Some hate email and only use it when they have to while they get more and more excited about &quot;email killers&quot; like <a href="https://slack.com/">Slack</a>. These people’s inboxes are usually filled with conversations they know they’ll have to reference later - which brings us to our next type of emailer: The Referencer.</p>
 
 <p>Some <em>love</em> using their email as their primary reference storage and personal wiki.</p>
 
