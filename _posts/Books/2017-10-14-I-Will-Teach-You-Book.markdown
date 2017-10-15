@@ -13,7 +13,7 @@ excerpt: "Wealth management, escaping debt, building wealth - these are all thin
 
 <div class="message">The following was typed with a HHKB</div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GL3IMOymNK0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c2sLAEwr-co" frameborder="0" allowfullscreen></iframe>
 
 <p>I’ve followed Ramit Sethi’s blog and online presence for quite a while already. Although I’ve always been a follower of Dave Ramsey as well and maintain my finances in <a href="ynab.com">YNAB</a>, I figured there might be something to get out of <em> I Will Teach You To Be Rich</em> — indeed there was. </p>
 
