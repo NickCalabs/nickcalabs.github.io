@@ -1,0 +1,61 @@
+---
+layout: post
+title: I Will Teach You To Be Rich: Book Review
+category: Productivity
+author: Nick Calabro
+image: 
+excerpt: "Wealth management, escaping debt, building wealth - these are all things that are essential to learn. Ramit Sethi goes about teaching you how to be rich in a great way."
+---
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@NickCalabs" />
+<meta name="twitter:title" content="{{ page.title }}" />
+<meta name="twitter:description" content="Nick Calabro's Blog" />
+
+<p>I’ve followed Ramit Sethi’s blog and online presence for quite a while already. Although I’ve always been a follower of Dave Ramsey as well and maintain my finances in <a href="ynab.com">YNAB</a>, I figured there might be something to get out of <em> I Will Teach You To Be Rich</em> — indeed there was. </p>
+
+<figure><img src="img/iwillteachbook.png"/></figure>
+
+<h2>Mindset vs. Budget</h2>
+
+<p>Ramit’s main tactic for saving money seems to be one that revolves around changing your mindset to not needing expensive and luxurious things that you know you cannot afford. This was fun to read and see someone else’s take on budgeting; as someone who uses the <a href="http://www.investopedia.com/terms/z/zbb.asp">ZBB</a> (zero-based budgeting) method, I already get myself in the right mindset by looking at the numbers considering that plan. </p>
+
+<p>Ramit’s ideas here seem to be perfect for the neophyte who just got a new job and may end up blowing all their paychecks on unneeded avocados, but it simply didn’t add much practical value to me. </p>
+
+<h2>Why are we Saving? </h2>
+
+<p>This was something I hadn’t really thought about until I read it here. We all have some vague idea of why we’re saving, investing, and such, but Ramit got me thinking very specifically. Sure, we all want to retire wealthy, live on an island, and ride the &nbsp;spaceship to Mars for a summer, but those goals are so far out and distant that it’s easy to fall back into an instant gratification loop and start buying expensive jeans and fancy cocktails again. </p>
+
+<p>Reaching <a href="https://www.reddit.com/r/financialindependence/">FI/RE</a> and paying off debt is simply too grand to keep as your one and only goal. It’s important to give yourself smaller milestones, reasonable goals, and small treats as you progress in your financial journey. </p>
+
+<h2>Excuses</h2>
+
+<p>The hardest part about budgeting and saving money for most people is that they’re unable to keep up with the Joneses when they have a strict financial plan. It’s especially difficult when the Joneses are your good friends who drag you along to their expensive outings. Before this text, you may feel implored to spend a lot of money on that fancy hayride your friends are all going to even though you know you can’t really afford it. </p>
+
+<p>One interesting tactic laid out in the book is pointing your friends to your budget. </p>
+
+<p>No one is going to question you when you say you have to stay late at the office because the boss is keeping everyone for a big presentation. You have an excuse and someone to answer to — it’s out of your hands. You can use this same principle for spending money. The budget says you can only spend $20 more this week on eating out and you already have dinner with your significant other planned. This is a great excuse to get out of the hayride. It’s truly out of your hands since you’re answering to the budget.</p>
+
+<h2>Blowing Money to you isn’t blowing money to me</h2>
+
+<p>One of my favorite parts of the text was when Ramit was going through all these people he knows who spend their money on different things and how it’s justifiable to <em>seem</em> splurge-y. </p>
+
+<p>One person was spending thousands of dollars per weekend going out to fancy restaurants, getting bottle service at clubs, and throwing extravagant parties. Another was wearing expensive designer clothing from head to toe. As it turns out, all these scenarios include a lot of fiscally responsible decisions unseen which makes it harder to conclude something negative. </p>
+
+<p>It’s crucial that we don’t look at these people and judge them immediately for being careless with money. Two people who make the same amount and either spend all their money on shoes as opposed to spending all their money on lunch every day can still be saving the same amount. One person values nice shoes while the other values the convenience and enjoyment of the food trucks.</p>
+
+<h3>Frugal vs. Cheap</h3>
+
+<p>There’s a second conversation to be had here about how the shoe-crazed person may come out gaining even more if they follow the <a href="https://www.reddit.com/r/BuyItForLife/">Buy-It-For-Life</a> mentality and their shoes last them a solid decade or longer. This is the difference between being frugal and cheap. Frugal people understand the value and will spend more if they can get more time out of it while cheap people buy the least expensive option right now even if it means buying the same thing again next year. </p>
+
+<p>It truly is an eyeopener and makes you think twice before you judge how other people are spending their money. </p>
+
+<h2>Philanthropy</h2>
+
+<p>I think about this a lot. I always imagine that having essentially unlimited funds and having the ability to donate your time and money would be one of the most rewarding things you can do with your life. Hearing Ramit discuss briefly how philanthropy is actually an important thing to him opened my eyes slightly more regarding the practice and puts it in a much more practical way than, say, Dave Ramsey does. Knowing Dave’s methodology and hearing right off that bat that a certain percentage goes to ‘giving’ isn’t very motivational. Understanding that to truly make a difference in anything from an organization to someone’s life you must be passionate about the cause in the first place is essential.</p>
+
+<p><em>Giving</em> isn’t a chore or a negative side to building wealth but just one more thing that you have access to once you’re there. It’s truly a new world that only an elite few and the &quot;non-averages&quot; get to experience.</p>
+
+<h2>Conclusion</h2>
+
+<p><em> I Will Teach You To Be Rich</em> is not a deep, heavy, and specialized text about investing and wealth management but an extensive story about how to get started with some extras sprinkled in. You can learn a lot no matter where you are in your financial journey and become rich.</p>
