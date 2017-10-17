@@ -12,6 +12,8 @@ excerpt: "Choosing what to do is never easy. We have a system to tell us what we
 <meta name="twitter:title" content="{{ page.title }}" />
 <meta name="twitter:description" content="Nick Calabro's Blog" />
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMXUt9A4txc" frameborder="0" allowfullscreen></iframe>
+
 <p>When going through your inbox of unallocated tasks and actions to decide what you’re going to do next and plan out your day, it’s very likely you’ll be rummaging through an unorganized pile of a week’s worth of droppings that haven’t been fully defined yet. Most of the time they’re going to be the small things like, &quot;read this article&quot;, or &quot;call sibling for birthday gift ideas&quot;. Although it’s not ideal, it’s okay to have these things floating around in your inbox so long as you take care of them immediately or organize them properly. </p>
 
 <p>Sometimes, however, you’re going to come across a bigger task in your inbox like, &quot;write table of contents for mystery novel we’re working on&quot;. <em>That</em> is a much bigger task in your inbox that you might never get done if you’re viewing your inbox incorrectly. <strong>Skimming through your inbox trying to find the most convenient thing to do at any given time will cause bigger and more time-sensitive tasks to fall through the cracks.</strong></p>
