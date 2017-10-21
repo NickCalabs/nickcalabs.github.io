@@ -12,6 +12,8 @@ excerpt: "Having a single trusted source that can handle any and all of your ran
 <meta name="twitter:title" content="{{ page.title }}" />
 <meta name="twitter:description" content="Nick Calabro's Blog" />
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7HmCJ6BupW8" frameborder="0" allowfullscreen></iframe>
+
 <p>At any given time during any given day we’re certain to come across objects, ideas, and items to be reminded about in the future; where do these burdens go? Having a central, catch-all, universal <em>box</em> for all these things is immensely helpful in anyone’s life. The <strong>inbox</strong> is your loosest and most flexible list, physical box, or digital document for all your ideas — big or small — to be thrown someplace for later evaluation. </p>
 
 <p>When in the middle of big important task throughout your day is when things are going to pop up and come at you for you to take action on. This is also exactly why some of us have trouble working remotely from home — because you’re constantly reminded about the laundry that has to be folded or the baby that needs changing. When life <em>does</em> happen and you need to be on top of something is most definitely the proper time to utilize your <strong>inbox</strong>. </p>
