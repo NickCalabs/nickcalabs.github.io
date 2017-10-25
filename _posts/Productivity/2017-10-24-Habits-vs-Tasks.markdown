@@ -12,7 +12,9 @@ excerpt: "Doing something over and over again every single day shouldn’t be so
 <meta name="twitter:title" content="{{ page.title }}" />
 <meta name="twitter:description" content="Nick Calabro's Blog" />
 
-<p>Whether you realize it or not, you’re full of habits that you hew to every single day. Your morning routine, bedtime ritual, and news consumption while commuting may all play out exactly the same each day. When something is so natural and comfortable it doesn’t need to be recorded and managed in your trusted system because <em>you are</em> the trusted system. Understanding how your mind and body separates habits with things you may categorize as tasks is important for your productivity and organization</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_os3mAZZju0" frameborder="0" gesture="media" allowfullscreen></iframe>
+
+<p>Whether you realize it or not, you’re full of habits that you hew to every single day. Your morning routine, bedtime ritual, and news consumption while commuting may all play out exactly the same each day. When something is so natural and comfortable it doesn’t need to be recorded and managed in your trusted system because <em>you are</em> the trusted system. Understanding how your mind and body separates habits with things you may categorize as tasks is important for your productivity and organization.</p>
 
 <h2>Habits</h2>
 
@@ -20,23 +22,21 @@ excerpt: "Doing something over and over again every single day shouldn’t be so
 
 <p>1. an&nbsp;acquired&nbsp;behavior&nbsp;pattern&nbsp;regularly&nbsp;followed&nbsp;until&nbsp;it&nbsp;has&nbsp;become almost&nbsp;involuntary.<br/></p>
 
-<p>A great example of a habit is your morning ritual. You’ll wake up and involuntarily hop out of bed, make the bed, brush your teeth, and do the rest of the things that you do every morning. The habit is so recurring that it has taken your body over and handles all the thinking for you. </p>
+<p>A great example of a habit is your morning ritual. You’ll wake up and involuntarily hop out of bed, make the bed, brush your teeth, and do the rest of the things that you do every morning. The habit is so recurring that it has taken your body over and handles all the thinking and execution for you. </p>
 
 <h2>Tasks</h2>
 
-<p><strong>task</strong>, tahsk</p>
-
-<p>noun</p>
+<p><strong>task</strong>, tahsk<br/>noun</p>
 
 <p>1. a&nbsp;definite&nbsp;piece&nbsp;of&nbsp;work&nbsp;assigned&nbsp;to,&nbsp;falling&nbsp;to,&nbsp;or&nbsp;expected&nbsp;of&nbsp;a person;&nbsp;duty.</p>
 
 <p>As <a href="http://nickcalabro.com/What-is-a-Task">we’ve discussed</a>, a task is a single action that has to get done. Your morning ritual habit is technically comprised of multiple tasks. Breaking it down we can find a handful of specific items that have clear outcomes — but we don’t understand our habits as multiple tasks; they’re merely one big conglomerate known as, &quot;the morning ritual&quot;. </p>
 
-<h2>Evolution: Task -&gt; Habit</h2>
+<h2>Evolution: Task &#8680; Habit</h2>
 
 <p>There will come a point when you get so involved with your trusted task manager that you record everything that has to get done. You may find yourself scheduling and setting deadlines for things like sleeping, eating dinner, and commuting. It’s okay to keep track of all the things you’re doing and going to do but when there’s a more efficient and effective method it’s your duty to optimize the system. </p>
 
-<p>When you notice things are going into the task manager grouped together and always at the same time or place, it may be a sign to form a habit. It’s redundant and time-consuming to check off, &quot;shred documents before leaving the office&quot; or, &quot;brush teeth before bed&quot; <em>ever single day</em>. Managing the actual task of shredding and brushing your teeth is going to accumulate to a significant chunk of time that could’ve been avoided if you formed habits that took care of these things on auto-pilot. </p>
+<p>When you notice things are going into the task manager grouped together and always at the same time and/or place, it may be a sign to form a habit. It’s redundant and time-consuming to check off, &quot;shred documents before leaving the office&quot; or, &quot;brush teeth before bed&quot; <em>ever single day</em>. Managing the actual task of shredding and brushing your teeth is going to accumulate to a significant chunk of time that could’ve been avoided if you formed habits that took care of these things on auto-pilot. </p>
 
 <p>This is different from a recurring task like, &quot;add hours and email invoice&quot; that has to be done every 14 days. No one is expected to habitually take care of something that infrequent and so easily forgettable. However, some habits for me may be definite daily or weekly reminders for you. Many people need a bound weekly task that forces them to review their task manager when I take care of that completely on my own. </p>
 
