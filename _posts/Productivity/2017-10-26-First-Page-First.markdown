@@ -12,12 +12,14 @@ excerpt: "<em>When Harry Met Sally…</em> has some insightful dialogue — one 
 <meta name="twitter:title" content="{{ page.title }}" />
 <meta name="twitter:description" content="Nick Calabro's Blog" />
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wtBy_8pZVH4" frameborder="0" gesture="media" allowfullscreen></iframe>
+
 <p>Rob Reiner’s classic, <em>When Harry Met Sally</em> kicked off 90s romantic comedies along with providing some insightful and debatable dialogue by Nora Ephron. The banter between Harry and Sally includes many facets of romantic relationships, platonic relationships, life itself, and some great humor. During their initial road trip after they meet for the first time, Harry suggests he has a dark side because he reads the last page of books first in case he dies. </p>
 
 <figure><img src="img/harryreading.png"/></figure>
 
 <blockquote>
-<p>When I buy a new book, I read the last page first. That way, in case I die before I finish, I know how it ends. That, my friend, is a dark side. ~ Harry Burns, When Harry Met Sally...</p>
+<p>When I buy a new book, I read the last page first. That way, in case I die before I finish, I know how it ends. That, my friend, is a dark side. ~ Harry Burns, <em>When Harry Met Sally…</em></p>
 </blockquote>
 
 <p>There are a few ways to interpret this eccentric but valuable tip. On one hand, Billy Crystal’s character is thinking ahead and being responsible even if it is at the cost of being exceptionally morbid. On the other hand, it can be taken differently and more productively as if the lesson has an ulterior motive that revolves around a bigger picture. </p>
@@ -28,13 +30,13 @@ excerpt: "<em>When Harry Met Sally…</em> has some insightful dialogue — one 
 
 <p>The value of knowing how the story ends before even beginning it might seem sacrilegious to some. Harry doesn’t seem to invest a lot of his emotions in the stories <em>anyway</em> so perhaps being comfortable while reading is more valuable than being shocked at plot twists and jump scares. </p>
 
-<p>His self-awareness is trumping his desire for entertainment and that’s a treasured attitude to have toward any act. Understanding where the book is going before it even sets the stage to open up for guessing where it might go makes for a completely different experience. Similarly, that can be applied to how you manage your life as well.</p>
+<p>His self-awareness is trumping his desire for entertainment and that’s a treasured attitude to have toward any act. Understanding where the book is going before it even sets the stage to open up for guessing where it might take you makes for a completely different experience. Similarly, that can be applied to how you manage your life as well.</p>
 
 <figure><img src="img/harrysallycar.png"/></figure>
 
 <h2>Productively Reading the Last Page First</h2>
 
-<p>As <a href="http://nickcalabro.com/Plan-Your-Wedding">we briefly discussed</a>, knowing where you’re headed is instrumental to getting there correctly. Once you have the end-goal in mind, everything you do will be working toward achieving that end goal. In addition to simply setting the goal and envisioning where you might be in one month, one year, and even one decade, it’s crucial to properly plan for that. Creating a schedule, breaking big projects down, and looking at your goals more granularly is imperative.</p>
+<p>As <a href="http://nickcalabro.com/Plan-Your-Wedding">we briefly discussed</a>, knowing where you’re headed is instrumental to getting there correctly. Once you have the end-goal in mind, everything you do will be working toward achieving that end-goal. In addition to simply setting the goal and envisioning where you might be in one month, one year, and even one decade, it’s crucial to properly plan for that. Creating a schedule, breaking big projects down, and looking at your goals more granularly is imperative.</p>
 
 <blockquote>
 <p>In preparing for battle I have always found that plans are useless, but planning is indispensable ~ Dwight D. Eisenhower</p>
