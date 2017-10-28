@@ -15,7 +15,16 @@ You can find me on most places of the internet:
 [github.com/nickcalabs](http://github.com/nickcalabs)<br>
 [medium.com/@NickCalabs/](https://medium.com/@NickCalabs)<br>
 [calabro.nick@gmail.com](mailto:calabro.nick@gmail.com)<br>
-[YouTube](https://www.youtube.com/channel/UCoxCY3F1S5PgFF_XaAKfUHw)
+<hr>
+[YouTube](https://www.youtube.com/channel/UCoxCY3F1S5PgFF_XaAKfUHw)<br>
+[Thinkful](https://www.thinkful.com/mentors/nick-calabro/)<br>
+[Show-Score](https://www.show-score.com/member/nickcalabs/)<br>
+[Goodreads](https://www.goodreads.com/user/show/23052110-nick-calabro)<br>
+[Quora](https://www.quora.com/profile/Nick-Calabro-1)<br>
+[Genius](https://genius.com/NickCalabro)<br>
+[Product Hunt](https://www.producthunt.com/@nickcalabs)<br>
+[Letterboxd](https://letterboxd.com/NickCalabs/)<br>
+[Stack Exchange](https://stackexchange.com/users/6090733/nick-calabro)
 
 [Resume](/resume.pdf)
 
