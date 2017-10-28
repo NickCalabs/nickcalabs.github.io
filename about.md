@@ -16,14 +16,15 @@ You can find me on most places of the internet:
 [medium.com/@NickCalabs/](https://medium.com/@NickCalabs)<br>
 [calabro.nick@gmail.com](mailto:calabro.nick@gmail.com)<br>
 <hr>
-[YouTube](https://www.youtube.com/channel/UCoxCY3F1S5PgFF_XaAKfUHw)<br>
-[Thinkful](https://www.thinkful.com/mentors/nick-calabro/)<br>
-[Show-Score](https://www.show-score.com/member/nickcalabs/)<br>
-[Goodreads](https://www.goodreads.com/user/show/23052110-nick-calabro)<br>
-[Quora](https://www.quora.com/profile/Nick-Calabro-1)<br>
-[Genius](https://genius.com/NickCalabro)<br>
-[Product Hunt](https://www.producthunt.com/@nickcalabs)<br>
-[Letterboxd](https://letterboxd.com/NickCalabs/)<br>
+<br>
+[YouTube](https://www.youtube.com/channel/UCoxCY3F1S5PgFF_XaAKfUHw) • 
+[Thinkful](https://www.thinkful.com/mentors/nick-calabro/) • 
+[Show-Score](https://www.show-score.com/member/nickcalabs/) • 
+[Goodreads](https://www.goodreads.com/user/show/23052110-nick-calabro) • 
+[Quora](https://www.quora.com/profile/Nick-Calabro-1) • 
+[Genius](https://genius.com/NickCalabro) • 
+[Product Hunt](https://www.producthunt.com/@nickcalabs) • 
+[Letterboxd](https://letterboxd.com/NickCalabs/) • 
 [Stack Exchange](https://stackexchange.com/users/6090733/nick-calabro)
 
 [Resume](/resume.pdf)
