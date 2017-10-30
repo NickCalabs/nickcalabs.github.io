@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Making it All Work: Book Review
+title: Making it All Work | Book Review
 category: Books
 author: Nick Calabro
 image: 
