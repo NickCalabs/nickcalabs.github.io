@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Making it All Work | Book Review
+title: Making it All Work: Book Review
 category: Books
 author: Nick Calabro
 image: 
@@ -20,7 +20,7 @@ excerpt: "<em>Making it All Work: Winning at the Game of Work and the Business o
 
 <figure><img src="img/makingit.jpg"/></figure>
 
-<p>Little tricks like choosing to do the most daunting and complicated task first thing in the morning is a big trick that can help you win. You’re smart enough to know yourself and how you may prefer to defer a certain task so by putting it in front of you as soon as you sit at the desk once you enter the office without the opportunity to even see anything else is merely falling into your own trap and for your own good. Perhaps creating arbitrary due dates for tasks that are open-ended but need to get done sometime is another way of trapping yourself into doing something. If you see it doesn’t <em>need</em> to be done by this week, you’ll just take care of it next week — the problem is that once next week comes around you’ll fall back into your deferment cycle. Something as simple as a due date next to the item on your task manager can put just enough pressure on you to get the task done. </p>
+<p>Little tips like choosing to do the most daunting and complicated task first thing in the morning is a big trick that can help you win. You’re smart enough to know yourself and how you may prefer to defer a certain task so by putting it in front of you as soon as you sit at the desk once you enter the office without the opportunity to even see anything else is merely falling into your own trap and for your own good. Perhaps creating arbitrary due dates for tasks that are open-ended but need to get done sometime is another way of trapping yourself into doing something. If you see it doesn’t <em>need</em> to be done by this week, you’ll just take care of it next week — the problem is that once next week comes around you’ll fall back into your deferment cycle. Something as simple as a due date next to the item on your task manager can put just enough pressure on you to get the task done. </p>
 
 <p>The text talks a great deal about distractions and setting priorities as well. As we talked about from <a href="http://nickcalabro.com/Deep-Work-Book-Review">Cal Newport’s Deep Work</a>, notifications and email are some of the leading causes of slacking. The text paints painfully true pictures of how we’ll drop the most important thing for a measly email because the excitement and anticipation force you to learn whether it’s spam, a coupon, or even a job offer. </p>
 
@@ -44,7 +44,7 @@ excerpt: "<em>Making it All Work: Winning at the Game of Work and the Business o
 
 <p>Making decisions becomes easier once this is all implemented as well. You should have no trouble deciding something if you have your life’s business plan completed. It’s as simple as asking yourself, &quot;does this get us closer to where we want to be by the end of the period?&quot; — if not, the decision is made for you. There’s no guesswork once you’ve already concluded what is best for you.</p>
 
-<p>This is merely creating the path for yourself. If you’re driving across the country for the first time and have no idea where to go, getting there the first time is going to be the hardest. You have to keep in mind all the forks in the roads, keep the landmarks in mind, and such. Only that first time will be challenging. The rest of the trip won’t be as meandering because then it’s just a question of driving rather than driving <em>and figuring out where to go</em>. </p>
+<p>This is merely creating the path for yourself. If you’re driving across the country for the first time and have no idea where to go, getting there the first time is going to be the hardest. You have to keep in mind all the forks in the roads, the landmarks, the busy streets, and such. Only that first time will be challenging. The rest of the trip won’t be as meandering because then it’s just a question of driving rather than driving <em>and figuring out where to go</em>. </p>
 
 <p><em>Making it All Work</em> is, in some regards, better than <em>Getting Things Done</em>. It’s not as definitive but adds so much value in regard to why we’re even trying to get things done in the first place. Create a system, trust the system, and utilize the system is making it work for your enjoyment and your dreams. </p>
 
