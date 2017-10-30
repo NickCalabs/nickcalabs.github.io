@@ -12,6 +12,8 @@ excerpt: "<em>Making it All Work: Winning at the Game of Work and the Business o
 <meta name="twitter:title" content="{{ page.title }}" />
 <meta name="twitter:description" content="Nick Calabro's Blog" />
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OPA90wOPJuU" frameborder="0" gesture="media" allowfullscreen></iframe>
+
 <p>David Allen’s <em>Making it All Work: Winning at the Game of Work and the Business of Life</em> is the ultimate supplement to his most popular work, <em>Getting Things Done</em>. While he teaches and instructs us how to actually get things done, in his other texts, this one takes a step back and forces us to look at the bigger picture. We’re not granularly checking off tasks anymore - we’re building a working and reliable system that’ll last an entire lifetime.</p>
 
 <h2>The Game of Work</h2>
