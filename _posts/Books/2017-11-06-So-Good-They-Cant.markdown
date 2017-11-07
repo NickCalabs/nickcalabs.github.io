@@ -13,6 +13,8 @@ excerpt: "Brought to us by the same author as <i>Deep Work</i> comes another gui
 
 <div class="message">The following was typed with a HHKB</div>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/23pkN4N8CKg" frameborder="0" gesture="media" allowfullscreen></iframe>
+
 <p>Cal Newport, the same author that brought us <a href="http://nickcalabro.com/Deep-Work-Book-Review"><em>Deep Work</em></a>, makes us look at our work and life habits differently again with his previously published book, <em> So Good They Can&#39;t Ignore You: Why Skills Trump Passion in the Quest for Work You Love</em>. </p>
 
 <figure><img src="img/sogood.jpg"/></figure>
