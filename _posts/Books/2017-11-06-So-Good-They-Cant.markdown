@@ -1,0 +1,47 @@
+---
+layout: post
+title: "So Good They Can’t Ignore You: Book Review"
+category: Books
+author: Nick Calabro
+excerpt: "Brought to us by the same author as <i>Deep Work</i> comes another guide on how to love what you do and do what you love."
+---
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@NickCalabs" />
+<meta name="twitter:title" content="{{ page.title }}" />
+<meta name="twitter:description" content="Nick Calabro's Blog" />
+
+<div class="message">The following was typed with a HHKB</div>
+
+<p>Cal Newport, the same author that brought us <a href="http://nickcalabro.com/Deep-Work-Book-Review"><em>Deep Work</em></a>, makes us look at our work and life habits differently again with his previously published book, <em> So Good They Can&#39;t Ignore You: Why Skills Trump Passion in the Quest for Work You Love</em>. </p>
+
+<figure><img src="img/sogood.jpg"/></figure>
+
+<p>The text begins with jarringly pessimistic ideas explaining how passion is rare and you should never follow your passion. Discussing the concept shines a light on the true ignorance of the notion — if you have a passion for shoelaces, should you follow your passion, quit your job, and spend 12 hours a day researching and manufacturing shoelaces? Sure, you might be the shoelace pundit of the planet, but it’s also not practical. </p>
+
+<p>Newport explains how following your passion is the worst advice you could receive because it creates this fantasy in your mind that you should be doing whatever you feel most comfortable doing and that you should quit ten jobs until you find one that you’re truly <em>passionate</em> about. </p>
+
+<p><strong>Don’t do what you love — learn to love what you do.</strong></p>
+
+<p>It’s rare that you’ll find someone that is truly passionate about their job. It may seem that they’re passionate if they love what they do, though. By accepting your role, mastering it, and being so good you can’t be ignored, you’ll surely become passionate about the field just because you’re so invaluable on the subject. Mastering something creates passion. </p>
+
+<h2>Always Bring Value</h2>
+
+<p>No matter what you’re doing, you can bring value. If you’re given a task that seems daunting but know that you can excel and improve the project in another way while still somewhat solving the original issue, do that. No matter how wide or narrow your scope of the overall project is, there is some fault that only you may spot and know how to solve. Create your own mini-objectives and solve fabricated puzzles created by yourself if it means wrapping up a project for the greater good of the product. </p>
+
+<blockquote>
+<p>Don’t ask what the world needs. Ask what makes you come alive, and go do it. Because what the world needs is people who have come alive. ~ Howard Thurman</p>
+</blockquote>
+
+
+<p>The more specialized your skillset the better job you may be able to acquire. If you’re an expert on one of the most esoteric programming languages known to man and come across an ancient firm that has been running on a codebase like that for decades, you’ll have all the power in the world to create the job you want. If the job isn’t something you’d prefer, create a &quot;side-mission&quot; for yourself to get motivated. Understanding the goals of the company is one thing, but if that doesn’t arouse you either, something more granular and personal will have to do to get you performing. </p>
+
+<h2>Adjacent Possible</h2>
+
+<p>Newport describes, as do many other texts and philosophies, the Adjacent Possible. This is the area that you should strive for to break the most boundaries and to leave the biggest of possible marks you can leave. Possibles will display themselves as you acquire rare and valuable skills and they’ll be more exposed the harder you work to advance intelligence further. </p>
+
+<p>Opportunities like this aren’t popping up once a week — they may only come up once a decade. Your career capital is the most important currency you can acquire and cultivate and that is what is going to get you better jobs, more prestigious connections, and ultimately will provide for a bigger adjacent possible. Career capital is built up over a career of multiple jobs, roles, expertise, and such. </p>
+
+<p>Between loving what you do, doing what you love, building your resume with impressive projects and passion projects, you’re always gaining expertise, career capital, and fixing toward an adjacent possible. This is the key to being so good they can’t ignore you. </p>
+
+
