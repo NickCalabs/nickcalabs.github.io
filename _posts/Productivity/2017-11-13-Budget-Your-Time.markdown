@@ -12,6 +12,8 @@ excerpt: "If you feel you’re not spending your time effectively, you’re prob
 <meta name="twitter:title" content="{{ page.title }}" />
 <meta name="twitter:description" content="Nick Calabro's Blog" />
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GasN4Y9jx7Y" frameborder="0" allowfullscreen></iframe>
+
 <p>If time is money, why don’t we treat it similarly? You may be a frugal budgeter who finds joy in getting something at half off. However, you may also spend frivolously for a special occasion and treat yourself to some high-end dining and entertainment. </p>
 
 <p>You’d never spend money on something that provided no value to you — or that didn’t help you grow at all — nor generated any entertainment for you. If you wouldn’t throw money at things like this, why do we throw time at things like this? We don’t even realize we’re doing it.</p>
@@ -36,7 +38,7 @@ excerpt: "If you feel you’re not spending your time effectively, you’re prob
 <p>I can’t wait to go for a jog, freshen up, and work on this side-project I’ve been meaning to get to for a few months.</p>
 </blockquote>
 
-<p>If you say this to yourself — good, you’re motivated; but are you productive? Saying this to yourself is great, but taking action on it your trouble. Don’t just hope these things will get done without planning for it. You don’t hope you won’t spend all your money; you budget.</p>
+<p>If you say this to yourself — good, you’re motivated; but are you productive? Saying this to yourself is great, but taking action on it is your trouble. Don’t just hope these things will get done without planning for it. You don’t hope you won’t spend all your money; you budget.</p>
 
 <h2>Spending Your Time on a Budget</h2>
 
@@ -44,7 +46,7 @@ excerpt: "If you feel you’re not spending your time effectively, you’re prob
 
 <ul>
 	<li>Write it out</li>
-	<li><a href="https://www.quora.com/How-can-I-be-productive-and-get-my-agenda-for-the-day-accomplished-quickly/answer/Nick-Calabro-1">Compartmentalize</a> what should get done when and when</li>
+	<li><a href="https://www.quora.com/How-can-I-be-productive-and-get-my-agenda-for-the-day-accomplished-quickly/answer/Nick-Calabro-1">Compartmentalize</a> what should get done when and where</li>
 	<li>Determine how long each task will take</li>
 	<li><a href="http://nickcalabro.com/Deep-Work-Book-Review">Schedule it</a> (along with TV binging time)</li>
 </ul>
@@ -53,7 +55,7 @@ excerpt: "If you feel you’re not spending your time effectively, you’re prob
 
 <p>The kicker using this method — besides putting everything in a scheduled and structured system assuring they’ll all get done — is that you can actually binge TV and surf the web aimlessly. You have the right to <em>waste</em> time as long as you’re <em>wasting</em> it in the slots that you’re comfortable with. </p>
 
-<p>You’ll feel so much better spending three hours watching movies if you knew that you planned ahead for it in the beginning of the day an that you can afford to spend that time watching a movie than if you just let the movie happen to you without planning for it in the first place. </p>
+<p>You’ll feel so much better spending three hours watching movies if you knew that you planned ahead for it in the beginning of the day and that you can afford to spend that time watching a movie than if you just let the movie happen to you without planning for it in the first place. </p>
 
 <p>When you’re budgeting time, you don’t completely cut out all the little (reasonable) luxuries like going out to eat every so often or attending the theatre. However, when you know you can allocate $100 that month to some frivolous activity because you planned for it, it’s okay. Tracking the money is the most important part and allows you to keep your finances up to date and in order. Tracking your time the same way allows you to not waste it and assures nothing falls through the cracks. </p>
 
