@@ -11,7 +11,7 @@ excerpt: "Greenwald's <i>No Place to Hide</i> is an example of great storytellin
 <meta name="twitter:title" content="{{ page.title }}" />
 <meta name="twitter:description" content="Nick Calabro's Blog" />
 
-<h1>No Place to Hide: Book Review</h1>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tLfvA6lGT8I" frameborder="0" gesture="media" allowfullscreen></iframe>
 
 <p>Glenn Greenwald’s <em> No Place to Hide: Edward Snowden, the NSA, and the U.S. Surveillance State</em> was one of the first books I read that wasn’t about startups or marketing. While the surveillance issues were in the news constantly, Snowden being mentioned every day, and even the Chelsea (formerly Bradley) Manning débâcle, the text was extremely relevant and a must-read.</p>
 
