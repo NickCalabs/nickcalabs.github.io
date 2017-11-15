@@ -1,0 +1,54 @@
+---
+layout: post
+title: "No Place to Hide: Book Review"
+category: Books
+author: Nick Calabro
+excerpt: "Greenwald's <i>No Place to Hide</i> is an example of great storytelling that has a deeper and relevant impact."
+---
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@NickCalabs" />
+<meta name="twitter:title" content="{{ page.title }}" />
+<meta name="twitter:description" content="Nick Calabro's Blog" />
+
+<h1>No Place to Hide: Book Review</h1>
+
+<p>Glenn Greenwald’s <em> No Place to Hide: Edward Snowden, the NSA, and the U.S. Surveillance State</em> was one of the first books I read that wasn’t about startups or marketing. While the surveillance issues were in the news constantly, Snowden being mentioned every day, and even the Chelsea (formerly Bradley) Manning débâcle, the text was extremely relevant and a must-read.</p>
+
+<figure><img src="img/noplaceto.png"/></figure>
+
+<p>The book is in three parts:</p>
+
+<ol>
+	<li>The story of how Glenn Greenwald initially got in contact with Edward Snowden and what happened after they met. </li>
+	<li>The leak — scans of all the documents that prove everyone is being watched.</li>
+	<li>What it means. Some psychological nuances that are a result of everything covered so far. </li>
+</ol>
+
+<h2>Snowden</h2>
+
+<p>The story of Snowden and Greenwald meeting was very enthralling. It played out like a Bond movie and kept me eager to learn more and what will come about from their relationship. Snowden initially contacted him through PGP which is an encryption tool used for passing data and messages securely that can’t be read by anyone without the key. </p>
+
+<p>Funnily, Greenwald had never used tools or services like this so he missed the opportunity to speak with Snowden at first and had to hop through a few hoops to finally get the chance to open a dialogue. Inspired by this, you’ll notice many people’s personal websites and Twitter bios contain their <em>key</em> along with an <a href="https://pgp.mit.edu/">MIT database</a> of searchable public keys. </p>
+
+<p>Finally, Greenwald ventures overseas to meet Snowden along with a crew including Laura Poitras who directed <a href="http://www.imdb.com/title/tt4044364/">Citizenfour</a> about the same encounter. Greenwald is illuminated by Snowden’s story and slowly and meticulously leaks more and more data. </p>
+
+<h2>What Being Watched Means</h2>
+
+<p>Greenwald does a great job of explaining the impact of what it means for the average person if they’re being watched. Things like the Hawthorne Effect prove it impacts people even if they’re not always thinking they’re being watched. </p>
+
+<p>It raises the question that’s also addressed in the text along with numerous blog posts found on the web that most of the public doesn’t even care they’re being surveilled because they have nothing to hide.</p>
+
+<blockquote>
+<p>Let the government listen in on my phone calls. I’m only talking to my grandmother about dinner plans for the weekend. </p>
+
+<p>I don’t even care if anyone’s reading my texts. I’m not plotting any attacks so they won’t even bother me. </p>
+</blockquote>
+
+<p>One of the better arguments against this process is if you imagine your home without curtains. You wouldn’t feel comfortable having big open windows into your home, nor would you feel comfortable removing the door form the restroom. We know what goes on in the restroom, everyone does, but that doesn’t mean we want anyone watching us do it. </p>
+
+<p>Not only bad people wish to have a slice of privacy. The thesis here is just because you may have nothing to hide doesn’t mean you would be okay with giving up all your privacy.</p>
+
+<h2>Bonus: 1984</h2>
+
+<p>George Orwell’s <em>Nineteen Eighty-Four</em> depicts many of these themes and is extremely prominent in Greenwald’s writing. <a href="https://www.facebook.com/photo.php?fbid=1904006123251024&amp;set=a.1727792874205684.1073741831.100009249655883&amp;type=3&amp;theater">The Broadway performance</a> of <em>1984</em> that recently closed demonstrates perfectly well the ignorance you may endure while being watched — even better than the <a href="http://www.imdb.com/title/tt0087803/">1984 movie</a> starring John Hurt since the live-action played with your emotions more personally. I recommend all versions and mediums of Orwell’s writing to get a deeper understanding and more natural display of how being watched can modify behavior and impact anyone psychologically. </p>
