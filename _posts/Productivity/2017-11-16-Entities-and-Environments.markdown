@@ -12,6 +12,8 @@ excerpt: "Where you work and on which devices greatly impact how well and how ti
 <meta name="twitter:title" content="{{ page.title }}" />
 <meta name="twitter:description" content="Nick Calabro's Blog" />
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0RC-EaKshLE" frameborder="0" gesture="media" allowfullscreen></iframe>
+
 <p>You probably notice that when you’re in certain buildings, rooms, or overall environments you feel more energized and productive than others. You might notice that when trying to accomplish certain tasks at home vs. the office it’s much more difficult for you to focus. Similarly, you may find that getting certain tasks done on your touchscreen devices is impossible compared to, say, a computer. Where you’re trying to get work done and through which means greatly impacts the level of productivity you’ll get to work with. </p>
 
 <h2>Different Devices for Different Duties</h2>
