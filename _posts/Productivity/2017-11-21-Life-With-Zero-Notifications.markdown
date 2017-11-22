@@ -12,6 +12,8 @@ excerpt: "Don’t let others dictate when you get things done and how effective 
 <meta name="twitter:title" content="{{ page.title }}" />
 <meta name="twitter:description" content="Nick Calabro's Blog" />
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vGEe6bM4nKc" frameborder="0" gesture="media" allowfullscreen></iframe>
+
 <p>You probably consider yourself an organized person who is in control of your life. You may even say that your time is so valuable and that no one can make you do anything. If you have notifications enabled on your mobile device, the above statements are likely untrue. Any time a notification comes through your phone, you’re instantly taken away from any task you’re currently working on — you’re not only losing time from catering to the text, email, or whatever came through, you’re also using precious mental energy switching from one task to another. </p>
 
 <p>Most <a href="nickcalabro.com/deep-Work-Book-Review">deep work</a> comes from pure focus and knowing what you ought to be doing at any given moment. Once you’re in the proper <em>mode</em> and feel maximally productive with the proper amount of attention required for this task, you’re perfectly prepared for tackling the task and accomplishing the project. The only things that may get in your way are <a href="https://www.youtube.com/watch?v=GasN4Y9jx7Y">life</a> and <em>digital life</em>.</p>
