@@ -12,6 +12,8 @@ excerpt: "Scheduling and properly managing which tasks to put at which times can
 <meta name="twitter:title" content="{{ page.title }}" />
 <meta name="twitter:description" content="Nick Calabro's Blog" />
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zd_aY6Pa328" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
 <p>Deciding and determining which mode you’re in can be the difference between getting a lot done with little energy and getting nothing done while using all your energy. Scheduling your day to optimize for context and your current mindset can greatly impact your effectiveness and time management. </p>
 
 <p>What do I mean by <em>mode</em>? As we briefly discuss in the difference between <a href="http://nickcalabro.com/Habits-vs-Tasks">habits and tasks</a>, your mode can be anything from </p>
