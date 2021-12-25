@@ -1,3 +1,18 @@
+---
+layout: post
+title: "Custom ErgoDox iOS Keyboard"
+category: Tech
+author: Nick Calabro
+excerpt: "We dive into the fundamentals of creating a third-party keyboard for iOS while having some fun making it just like the fan-favorite: ErgoDox."
+---
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@NickCalabs" />
+<meta name="twitter:title" content="{{ page.title }}" />
+<meta name="twitter:description" content="Nick Calabro's Blog" />
+
+<div class="message">The following was typed with a HHKB</div>
+
 <h1>How I Made My Holiday Cards NFTs, Kind Of —&nbsp;And How You Can Get In On The Next Block</h1>
 
 <p><em>Before we begin, I want to make it clear that this isn’t a ‘genuine’ NFT, in many regards and for a few reasons. If anything, this is more of a traditional token (and it’s not even that) since the physical holiday cards themselves all have the same properties — they’re literally fungible. </em></p>
