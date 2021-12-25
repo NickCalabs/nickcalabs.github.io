@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Custom ErgoDox iOS Keyboard"
+title: "Holiday Card NFTs"
 category: Tech
 author: Nick Calabro
-excerpt: "We dive into the fundamentals of creating a third-party keyboard for iOS while having some fun making it just like the fan-favorite: ErgoDox."
+excerpt: ""
 ---
 
 <meta name="twitter:card" content="summary" />
