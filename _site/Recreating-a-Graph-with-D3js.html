@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<!-- for  -->
+<meta name="apple-mobile-web-app-title" content="Nick's Blog">
+<meta name="viewport" content="initial-scale=1">
+<link rel="apple-touch-icon" href="/nick.jpg">
+
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-59718457-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+  <head>
+  <meta charset="UTF-8">
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+
+  <!-- Enable responsiveness on mobile devices-->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>
+    
+      Recreating A Graph With D3js &middot; Nick Calabro
+    
+  </title>
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="/styles.css">
+
+  <!-- Icons -->
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/public/apple-touch-icon-precomposed.png">
+  <link rel="shortcut icon" href="/public/favicon.ico">
+
+  <!-- RSS -->
+  <link rel="alternate" type="application/atom+xml" title="Nick Calabro" href="/atom.xml">
+</head>
+
+
+  <body>
+  <div id="left"></div>
+  <div id="right"></div>
+  <div id="top"></div>
+  <div id="bottom"></div>
+
+    <div class="container content">
+        <h3 class="masthead-title">
+          <a href="/" title="Home">Nick Calabro</a>
+
+          
+            <small style="float:right;"><a href="/about">About</a>&nbsp;&nbsp;&nbsp;</small>
+          
+            <small style="float:right;"><a href="/archive">Archive</a>&nbsp;&nbsp;&nbsp;</small>
+          
+            <small style="float:right;"><a href="/atom.xml">Feed</a>&nbsp;&nbsp;&nbsp;</small>
+          
+        </h3>
+      
+      <main style="margin-top:25px;">
+        <!-- <p>Test haha</p> -->
+        <article class="post">
+  <header class="post-header">
+    <h1 class="post-title">Recreating A Graph With D3js</h1>
+    <p class="post-meta">Jan 19, 2016 • Nick Calabro</p>
+  </header>
+  <p><meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@NickCalabs" />
+<meta name="twitter:title" content="Recreating A Graph With D3js" />
+<meta name="twitter:description" content="Nick Calabro's Blog" /></p>
+
+<p>I joined <a href="http://teamtreehouse.com">Treehouse</a> years ago with hopes I could supplement my college education with some web development. It wasn’t long until I was taking on tasks at work relating to the website and soon considering myself a real developer. One thing I always loved about the site was the design and colors. View it in real life along with <a href="https://teamtreehouse.com/nickcalabro">my Treehouse profile</a>. <br><a href="https://teamtreehouse.com/nickcalabro"><img src="https://raw.githubusercontent.com/NickCalabs/nickcalabs.github.io/master/img/tree.png" alt="Treehouse progress page with chart example"></a></p>
+
+<p>The data visualization is interesting here. Made with <a href="http://www.highcharts.com/"> Highcharts</a>, the color coordination and legend make it fairly easy to read how much you’ve learned at a glance. This works better than a bar graph because it is dynamic to 100% of everything you’ve learned and changes in proportion to how much of each category you’ve studied. The only confusing thing here are the points system which seem arbitrary at first.</p>
+
+<p>Something like this can be easily done with <a href="http://d3js.org/">D3</a>. First, get the skeleton of your site ready, import D3 and create a single divthis will be the only markup for the entire visualization.</p>
+
+<h2>Script Tag</h2>
+
+<p>All the magic occurs in the script. First we create our data with a simple array. Defending the colors early is important as well. The initial r variable is the radius that defines the whole svg. The canvas and group vars are also for sizing and placement on the webpage. innerRadius and outerRadius being different are what give our graph the pie shape with the hole.</p>
+
+<h2>Choosing Colors</h2>
+
+<p>Be careful when coloring your visualization. D3 has some functions that will color your graph with 10, 20, 30 and more color combinations. This can be tricky once you have more than ten slices of your pie, though. One set after the other might have an identical color with a different opacity; this might lead a viewer to believe the two values are related when really they could have nothing to do with each other. This happens once you use <code>d3.scale.category20()</code>. Instead, you could choose all your own colors with <code>d3.scale.ordinal() .range([‘red’, ‘blue’, #E55D63]);</code> and however many you’d like.</p>
+
+<p><img src="https://raw.githubusercontent.com/NickCalabs/nickcalabs.github.io/master/img/category10.png" alt="pie chart using catergory10">
+<code>
+category10()
+</code>
+<img src="https://raw.githubusercontent.com/NickCalabs/nickcalabs.github.io/master/img/category20.png" alt="pie chart using catergory20">
+<code>
+category20()
+</code>
+<img src="https://raw.githubusercontent.com/NickCalabs/nickcalabs.github.io/master/img/ordinal.png" alt="pie chart using ordinal">
+<code>
+ordinal() .range([&#39;red&#39;, &#39;blue&#39;, &#39;yellow&#39;]);
+</code></p>
+
+<h2>Conclusion</h2>
+
+<p>There is a lot more you can do with D3. I’ll follow this up with another post on how to make it more interactive. I’d like a tooltip to appear on hover and have the legend interact with hovering as well. It can be seen live here. Thanks for your time</p>
+
+<div class="message">
+  If you liked this or found it useful please let me know. You can check out the code on my <a href="http://github.com/nickcalabs">GitHub</a> and I'd love to connect on <a href="http://twitter.com/nickcalabs">Twitter</a>, <a href="http://linkedin.com/in/nickcalabro">Linkedin</a>, or just chatting in <a href="mailto:calabro.nick@gmail.com">emails</a>.
+</div>
+
+</article>
+
+
+<aside class="related">
+  <h2>Related Posts</h2>
+  <ul class="related-posts">
+    
+      <li>
+        <h3>
+          <a href="/How-I-Put-My-Holiday-Cards-On-Chain">
+            Holiday Card NFTs
+            <small><time datetime="2021-12-24T00:00:00-05:00">24 Dec 2021</time></small>
+          </a>
+        </h3>
+      </li>
+    
+      <li>
+        <h3>
+          <a href="/Which-Mode">
+            Which Mode are You In | And How To Be Productive In It
+            <small><time datetime="2017-12-01T00:00:00-05:00">01 Dec 2017</time></small>
+          </a>
+        </h3>
+      </li>
+    
+      <li>
+        <h3>
+          <a href="/Life-With-Zero-Notifications">
+            Life With Zero Notifications
+            <small><time datetime="2017-11-21T00:00:00-05:00">21 Nov 2017</time></small>
+          </a>
+        </h3>
+      </li>
+    
+  </ul>
+</aside>
+
+
+      </main>
+
+      
+    </div>
+    
+    <footer>
+      <div class="container">
+        <small>
+          &copy; <time datetime="2023-07-20T22:49:59-04:00">2023</time>. New York, NY | Miami, FL.
+        </small>
+        </div>
+      </footer>
+
+  </body>
+</html>

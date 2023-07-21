@@ -1,0 +1,408 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<!-- for  -->
+<meta name="apple-mobile-web-app-title" content="Nick's Blog">
+<meta name="viewport" content="initial-scale=1">
+<link rel="apple-touch-icon" href="/nick.jpg">
+
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-59718457-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+  <head>
+  <meta charset="UTF-8">
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+
+  <!-- Enable responsiveness on mobile devices-->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>
+    
+      Build a Blog with Rails &middot; Nick Calabro
+    
+  </title>
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="/styles.css">
+
+  <!-- Icons -->
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/public/apple-touch-icon-precomposed.png">
+  <link rel="shortcut icon" href="/public/favicon.ico">
+
+  <!-- RSS -->
+  <link rel="alternate" type="application/atom+xml" title="Nick Calabro" href="/atom.xml">
+</head>
+
+
+  <body>
+  <div id="left"></div>
+  <div id="right"></div>
+  <div id="top"></div>
+  <div id="bottom"></div>
+
+    <div class="container content">
+        <h3 class="masthead-title">
+          <a href="/" title="Home">Nick Calabro</a>
+
+          
+            <small style="float:right;"><a href="/about">About</a>&nbsp;&nbsp;&nbsp;</small>
+          
+            <small style="float:right;"><a href="/archive">Archive</a>&nbsp;&nbsp;&nbsp;</small>
+          
+            <small style="float:right;"><a href="/atom.xml">Feed</a>&nbsp;&nbsp;&nbsp;</small>
+          
+        </h3>
+      
+      <main style="margin-top:25px;">
+        <!-- <p>Test haha</p> -->
+        <article class="post">
+  <header class="post-header">
+    <h1 class="post-title">Build a Blog with Rails</h1>
+    <p class="post-meta">Jan 14, 2016 • Nick Calabro</p>
+  </header>
+  <p><meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@NickCalabs" />
+<meta name="twitter:title" content="Build a Blog with Rails" />
+<meta name="twitter:description" content="Nick Calabro's Blog" /></p>
+
+<div class="message">This is one large post covering, in detail, how to <a href="http://nameless-dusk-8821.herokuapp.com">create this blog with Ruby on Rails</a> from backend to frontend. 
+</div>
+
+<h2>Rails New</h2>
+
+<p>The website you are on right now is a fairly basic blog written in Ruby on Rails. It allows users to create posts and involves some pretty exciting syntax highlighting and Bootstrap integration. In a series of articles, I will go through, step by step, how to create this very site - from rails new all the way to deployment.</p>
+
+<p>This is designed for someone who is comfortable with code in general, however, I’ll be doing my best to describe what each step does and why we’re doing it. Hopefully, you and I will learn more about the intricacies of a site like this.</p>
+
+<p>First we have to open up Terminal. Navigate to the directory you’d like this project to live in and create a new Rails app. In this case I’ll be going to the Desktop.</p>
+<div class="highlight"><pre><code class="language-console" data-lang="console">cd Desktop
+rails new blog
+</code></pre></div>
+<p>You&#39;ll see everything being created in the terminal. Now, enter the blog directory and start the Rails server.</p>
+<div class="highlight"><pre><code class="language-console" data-lang="console">cd blog
+rails s
+</code></pre></div>
+<p>From here, navigate to <code>http://localhost:3000</code>. You should see this screen letting you know everything is running smoothly.</p>
+
+<p><img src="/img/railswelcome.jpg"></p>
+
+<h2>Git Init</h2>
+
+<p>Open up your project in your favorite text editor. You should see a whole file tree including app, bin, config, and whatnot. We’re going to touch nearly everything here so be patient. While we’re here, now might be a good time to create our git repository. In your terminal, type:</p>
+<div class="highlight"><pre><code class="language-console" data-lang="console">git init
+git status
+git add .
+git status
+git commit -m "Initial commit"
+</code></pre></div>
+<p>This is going to create the repository. Then, with status we can see all the untracked files in red. Add the entire directory, check the status again, and commit it all with a little message.</p>
+
+<p>From here, we need to add some functionality to our app. First we need to create a controller for our posts.</p>
+<div class="highlight"><pre><code class="language-console" data-lang="console">rails generate controller posts
+</code></pre></div>
+<p>You’ll see your terminal spit out some stuff after this one. To see what the generate did, navigate to <code>app/controllers/</code> and you’ll find the <code>posts_controller.rb</code> was born. We’re going to want the posts to be at the root of our site and we need there to be some functionality to create a new post. The first step for this is to give it the index and the new actions. Here’s your <code>posts_controller</code>:</p>
+<div class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">class</span> <span class="nc">PostsController</span> <span class="o">&lt;</span> <span class="no">ApplicationController</span>
+    <span class="k">def</span> <span class="nf">index</span>
+    <span class="k">end</span> 
+
+    <span class="k">def</span> <span class="nf">new</span>
+    <span class="k">end</span>
+<span class="k">end</span>
+</code></pre></div>
+<p>Going to the routes file (<code>config/routes.rb</code>). We can start by deleting all the comments in this file. It’s very cluttered and can be daunting. At this point, you should be left with only two lines. Inside, you’re going to add some routes. We need a route for our posts, and we also want that posts page to be our root. At the end, your <code>routes.rb</code> should look like this:</p>
+<div class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="no">Rails</span><span class="p">.</span><span class="nf">application</span><span class="p">.</span><span class="nf">routes</span><span class="p">.</span><span class="nf">draw</span> <span class="k">do</span>
+    <span class="n">resources</span> <span class="ss">:posts</span>
+    <span class="n">root</span> <span class="s2">"posts#index"</span>
+<span class="k">end</span>
+</code></pre></div>
+<p>At this point, if you refresh your browser (be sure your server is still running [rails s]) you’ll find an error telling you you’re missing a template. To fix this, head over to <code>app/views/posts/</code> and add a new file called <code>index.html.erb</code>. In this file, feel free to add some dummy HTML and just make sure it shows up in your browser. We also have the new action to worry about. Create another file inside <code>app/views/posts/</code> called <code>new.html.erb</code>. Now, if we navigate to <code>http://localhost:3000/posts/new</code>, we’ll get that file. In your <code>new.html.erb</code> file, we’ll need a form to actually let the user create a post with. It’ll look like this.</p>
+<div class="highlight"><pre><code class="language-html" data-lang="html"><span class="err">&lt;</span>%= form_for :post, url: posts_path do |f| %&gt;
+    <span class="nt">&lt;p&gt;</span>
+        <span class="err">&lt;</span>%= f.label :title %&gt;<span class="nt">&lt;br&gt;</span>
+        <span class="err">&lt;</span>%= f.text_field :title %&gt;
+    <span class="nt">&lt;/p&gt;</span>
+
+    <span class="nt">&lt;p&gt;</span>
+        <span class="err">&lt;</span>%= f.label :body %&gt;<span class="nt">&lt;br&gt;</span>
+        <span class="err">&lt;</span>%= f.text_area :body %&gt;
+    <span class="nt">&lt;/p&gt;</span>
+
+    <span class="nt">&lt;p&gt;</span>
+        <span class="err">&lt;</span>%= f.submit %&gt;
+    <span class="nt">&lt;/p&gt;</span>
+
+<span class="err">&lt;</span>% end %&gt;
+</code></pre></div>
+<h2>Rake</h2>
+
+<p>Navigate to <code>localhost:3000/posts/new</code> and enjoy the view of the wonderfully boring form you just created. Now, if you hit submit on this page, your data isn’t going to really go anywhere. The next step is to generate a model. Head over to your terminal and repeat after me:</p>
+<div class="highlight"><pre><code class="language-console" data-lang="console">rails g model Post title:string body:text
+rake db:migrate
+</code></pre></div>
+<p>You should see under <code>db/migrate</code> and <code>app/models</code> the newest files just created. In <code>posts_controller.rb</code> we’re going to create our create method and our private method to permit the parameters. We’re also going to add the show method for when we want to display an individual post. <code>posts_controller.rb</code> will look like this:</p>
+<div class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">class</span> <span class="nc">PostsController</span> <span class="o">&lt;</span> <span class="no">ApplicationController</span>
+    <span class="k">def</span> <span class="nf">index</span>
+    <span class="k">end</span>
+
+    <span class="k">def</span> <span class="nf">new</span>
+    <span class="k">end</span>
+
+    <span class="k">def</span> <span class="nf">create</span>
+        <span class="vi">@post</span> <span class="o">=</span> <span class="no">Post</span><span class="p">.</span><span class="nf">new</span><span class="p">(</span><span class="n">post_params</span><span class="p">)</span>
+        <span class="vi">@post</span><span class="p">.</span><span class="nf">save</span>
+
+        <span class="n">redirect_to</span> <span class="vi">@post</span>
+    <span class="k">end</span>
+
+     <span class="k">def</span> <span class="nf">show</span>
+        <span class="vi">@post</span> <span class="o">=</span> <span class="no">Post</span><span class="p">.</span><span class="nf">find</span><span class="p">(</span><span class="n">params</span><span class="p">[</span><span class="ss">:id</span><span class="p">])</span>
+    <span class="k">end</span>
+
+    <span class="kp">private</span>
+        <span class="k">def</span> <span class="nf">post_params</span>
+            <span class="n">params</span><span class="p">.</span><span class="nf">require</span><span class="p">(</span><span class="ss">:post</span><span class="p">).</span><span class="nf">permit</span><span class="p">(</span><span class="ss">:title</span><span class="p">,</span> <span class="ss">:body</span><span class="p">)</span>
+        <span class="k">end</span>
+<span class="k">end</span>
+</code></pre></div>
+<h2>Show</h2>
+
+<p>Before we create a post, we have to create the show page. Again, under <code>app/views/posts</code>, create a new file called <code>show.html.erb</code>. Here, we’re going to want to display the title and body of our posts. Also, I threw in some interesting code to get the date of the post to show up as well.</p>
+<div class="highlight"><pre><code class="language-html" data-lang="html"><span class="nt">&lt;h1&gt;</span><span class="err">&lt;</span>%= @post.title %&gt;<span class="nt">&lt;/h1&gt;</span>
+
+<span class="nt">&lt;p&gt;</span>Submitted <span class="err">&lt;</span>%= time_ago_in_words(@post.created_at) %&gt; ago<span class="nt">&lt;/p&gt;</span>
+<span class="nt">&lt;p&gt;</span><span class="err">&lt;</span>%= @post.body %&gt;<span class="nt">&lt;/p&gt;</span>
+</code></pre></div>
+<p>If you go to <code>localhost:3000/posts/new</code>, create your post, and navigate to <code>localhost:3000/posts/1</code>, you should see your first ever blog post. The final step for now is to be sure we can access all the posts currently in our database. In <code>posts_controller.rb</code>, inside the index action add</p>
+<div class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="vi">@posts</span> <span class="o">=</span> <span class="no">Post</span><span class="p">.</span><span class="nf">all</span><span class="p">.</span><span class="nf">order</span><span class="p">(</span><span class="err">‘</span><span class="n">created_at</span> <span class="no">DESC</span><span class="err">’</span><span class="p">)</span>
+</code></pre></div>
+<p>Then, in <code>index.html.erb</code> we need to create a loop to display all our posts.</p>
+<div class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="o">&lt;</span><span class="sx">% @posts.each </span><span class="k">do</span> <span class="o">|</span><span class="n">post</span><span class="o">|</span> <span class="sx">%&gt;
+    &lt;div&gt;</span>
+        <span class="o">&lt;</span><span class="n">h2</span><span class="o">&gt;&lt;</span><span class="sx">%= link_to post.title, post %&gt;&lt;/h2&gt;
+        &lt;p&gt;&lt;%=</span> <span class="n">post</span><span class="p">.</span><span class="nf">created_at</span><span class="p">.</span><span class="nf">strftime</span><span class="p">(</span><span class="s2">"%B, %d, %Y"</span><span class="p">)</span> <span class="o">%&gt;&lt;</span><span class="sr">/p&gt;
+    &lt;/</span><span class="n">div</span><span class="o">&gt;</span>
+<span class="o">&lt;</span><span class="sx">% end </span><span class="o">%&gt;</span>
+</code></pre></div>
+<p>Go ahead and commit have you have with git.</p>
+
+<h2>Styling</h2>
+
+<p>Our app has very little functionality - which is good. At least it has some functionality. Before we continue, though, I think we should add some styling so we’re not looking at any gross basic HTML structuring. The first thing we’re going to do here is add Bootstrap. In your terminal, create a new branch. This way, if we screw something up, we can always revert back to where we are now and start breathing at a normal rate again.</p>
+<div class="highlight"><pre><code class="language-console" data-lang="console">git co -b style
+</code></pre></div>
+<p>Here, <code>co</code> is checkout, <code>-b</code> is a shortcut to switch directly to that branch, and <code>style</code> is the name of the branch. Now if you enter <code>git branch</code>, you’ll see the master branch, and that we’re on the style branch. Now since we’re safe, let’s get stylish. In your Gemfile, near the middle, before the <code>group :development, :test do</code>, add:</p>
+<div class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="c1">#bootstrap</span>
+<span class="n">gem</span> <span class="s1">'therubyracer'</span>
+<span class="n">gem</span> <span class="s1">'less-rails'</span>
+<span class="n">gem</span> <span class="s1">'twitter-bootstrap-rails'</span><span class="p">,</span> <span class="s1">'~&gt; 3.2.1.rc1'</span>
+</code></pre></div>
+<p>You can follow along with how I went about this in the <a href="https://github.com/seyhunak/twitter-bootstrap-rails">Twitter Bootstrap Rails</a> github repo, by the way. Now give your terminal a little <code>rails g bootstrap:install less</code>; this will install the proper stylesheets and whatnot. Then, <code>rails g bootstrap:layout</code> will create the <code>application.html.erb</code>. It’ll probably ask you if you’re sure you want to overwrite your current file, just confirm that you do. Now if you reload your browser you’ll see a much more pleasing site - still showing our posts, and now with a sidebar as well. For the site you’re currently viewing, I got rid of the sidebar. I’m sure you can figure out how to cut that out, if not, here’s the snippet to delete. You can even play around with some of <a href="http://getbootstrap.com/">Bootstrap</a>’s features and make an even cooler sidebar.</p>
+<div class="highlight"><pre><code class="language-html" data-lang="html"><span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">"col-lg-3"</span><span class="nt">&gt;</span>
+  <span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">"well sidebar-nav"</span><span class="nt">&gt;</span>
+    <span class="nt">&lt;h3&gt;</span>Sidebar<span class="nt">&lt;/h3&gt;</span>
+    <span class="nt">&lt;ul</span> <span class="na">class=</span><span class="s">"nav nav-list"</span><span class="nt">&gt;</span>
+      <span class="nt">&lt;li</span> <span class="na">class=</span><span class="s">"nav-header"</span><span class="nt">&gt;</span>Sidebar<span class="nt">&lt;/li&gt;</span>
+      <span class="nt">&lt;li&gt;</span><span class="err">&lt;</span>%= link_to "Link1", "/path1"  %&gt;<span class="nt">&lt;/li&gt;</span>
+      <span class="nt">&lt;li&gt;</span><span class="err">&lt;</span>%= link_to "Link2", "/path2"  %&gt;<span class="nt">&lt;/li&gt;</span>
+      <span class="nt">&lt;li&gt;</span><span class="err">&lt;</span>%= link_to "Link3", "/path3"  %&gt;<span class="nt">&lt;/li&gt;</span>
+    <span class="nt">&lt;/ul&gt;</span>
+  <span class="nt">&lt;/div&gt;</span><span class="c">&lt;!--/.well --&gt;</span>
+<span class="nt">&lt;/div&gt;</span><span class="c">&lt;!--/span--&gt;</span>
+</code></pre></div>
+<h2>Navbar</h2>
+
+<p>For the sake of making what we have a little more presentable and to give us some instant gratification we’re going to add some Bootstrap markup to this. Right now, we see Bootstrap generated a nice nav bar for us. It’s cute, but it’s not what I have here, and we’re building this very site. To achieve the transparent nav with links floating on the right while maintaining a nice dropdown toggle for mobile I had to do a few things. First fix your <code>navbar-brand</code>, because that’s probably not how you want that displayed. I did it like this:</p>
+<div class="highlight"><pre><code class="language-html" data-lang="html"><span class="nt">&lt;h1&gt;</span><span class="err">&lt;</span>%= link_to "Nick Calabro", root_path, class: "navbar-brand" %&gt;<span class="nt">&lt;/h1&gt;</span>
+</code></pre></div>
+<p>This way, we’re able to put it in an <code>h1</code> tag, and it’s also still a link with the bootstrap class <code>navbar-brand</code> that keeps it in place. There are also some divs we want to throw in there, and we’re going to do some magic to get links to active or not if you’re on the corresponding page. When it’s all said and done, it’ll look like this.</p>
+<div class="highlight"><pre><code class="language-html" data-lang="html"><span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">"navbar"</span><span class="nt">&gt;</span>
+  <span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">"container"</span><span class="nt">&gt;</span>
+    <span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">"navbar-header page-scroll"</span><span class="nt">&gt;</span>
+      <span class="nt">&lt;button</span> <span class="na">type=</span><span class="s">"button"</span> <span class="na">class=</span><span class="s">"navbar-toggle"</span> <span class="na">data-toggle=</span><span class="s">"collapse"</span> <span class="na">data-target=</span><span class="s">".navbar-responsive-collapse"</span><span class="nt">&gt;</span>
+        <span class="nt">&lt;span</span> <span class="na">class=</span><span class="s">"icon-bar"</span><span class="nt">&gt;&lt;/span&gt;</span>
+        <span class="nt">&lt;span</span> <span class="na">class=</span><span class="s">"icon-bar"</span><span class="nt">&gt;&lt;/span&gt;</span>
+        <span class="nt">&lt;span</span> <span class="na">class=</span><span class="s">"icon-bar"</span><span class="nt">&gt;&lt;/span&gt;</span>
+      <span class="nt">&lt;/button&gt;</span>
+      <span class="nt">&lt;h1&gt;</span><span class="err">&lt;</span>%= link_to "Nick Calabro", root_path, class: "navbar-brand" %&gt;<span class="nt">&lt;/h1&gt;</span>
+    <span class="nt">&lt;/div&gt;</span>
+    <span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">"navbar-collapse collapse navbar-responsive-collapse"</span><span class="nt">&gt;</span>
+      <span class="nt">&lt;ul</span> <span class="na">class=</span><span class="s">"nav navbar-nav navbar-right"</span><span class="nt">&gt;</span>
+        <span class="nt">&lt;li</span> <span class="na">class=</span><span class="s">"&lt;%= 'active' if current_page?(root_path) %&gt;"</span><span class="nt">&gt;</span><span class="err">&lt;</span>%= link_to "Articles", root_path  %&gt;<span class="nt">&lt;/li&gt;</span>
+      <span class="nt">&lt;/ul&gt;</span>
+    <span class="nt">&lt;/div&gt;</span>
+  <span class="nt">&lt;/div&gt;</span>
+<span class="nt">&lt;/div&gt;</span>
+</code></pre></div>
+<p>In your <code>ul</code>, we’re embedding some ruby to only add the active class if the current page is that <code>li</code>’s path. Pretty cool, if you ask me - right, you didn’t ask me. Another way we could’ve done this looks something like this <code>&lt;li class=&quot;&lt;%= &#39;active&#39; if params[:controller] == &#39;root&#39; %&gt;&quot;&gt;&lt;%= link_to “Articles&quot;, root_path  %&gt;&lt;/li&gt;</code>. On to terminal.</p>
+<div class="highlight"><pre><code class="language-console" data-lang="console">git add status
+git add .
+git commit -m “Add Bootstrap"
+
+git co master
+git merge style
+git branch -d style
+</code></pre></div>
+<p>Now that you have something that looks pretty, we can commit these changes, merge them, delete the style branch and add some crazy functionality next. </p>
+
+<h2>Validate</h2>
+
+<p>Right now, you can create a post with absolutely no content inside. In your <code>app/models/post.rb</code> file, we’re going to want to add some validations.</p>
+<div class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">class</span> <span class="nc">Post</span> <span class="o">&lt;</span> <span class="no">ActiveRecord</span><span class="o">::</span><span class="no">Base</span>
+    <span class="n">validates</span> <span class="ss">:title</span><span class="p">,</span> <span class="ss">presence: </span><span class="kp">true</span><span class="p">,</span> <span class="ss">length: </span><span class="p">{</span> <span class="ss">miniimum: </span><span class="mi">5</span> <span class="p">}</span>
+    <span class="n">validates</span> <span class="ss">:body</span><span class="p">,</span> <span class="ss">presence: </span><span class="kp">true</span>
+<span class="k">end</span>
+</code></pre></div>
+<p>It’ll look like this when you’re finished. It can be kind of self-explanatory, but all we’re doing it telling it to throw an error if the title isn’t present at all or has fewer than 5 characters. Same thing with the body minus the char count.</p>
+
+<p>Next, we have to add some functionality to <code>posts_controller.rb</code>. In the <code>new</code> method add <code>@post = Post.new</code>. We’re also going to change up the create method by adding a little conditional. It should look like this.</p>
+<div class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">create</span>
+    <span class="vi">@post</span> <span class="o">=</span> <span class="no">Post</span><span class="p">.</span><span class="nf">new</span><span class="p">(</span><span class="n">post_params</span><span class="p">)</span>
+
+    <span class="k">if</span> <span class="vi">@post</span><span class="p">.</span><span class="nf">save</span>
+        <span class="n">redirect_to</span> <span class="vi">@post</span>
+    <span class="k">else</span>
+        <span class="n">render</span> <span class="s1">'new'</span>
+    <span class="k">end</span>
+<span class="k">end</span>
+</code></pre></div>
+<h2>Errors</h2>
+
+<p>Now, if you try to make a post at <code>localhost:3000/posts/new</code> and your title is not at least five characters, you won’t be able to post it. But, this isn’t very intuitive. Sure, you know about that rule now, but you might forget. A simple error message can really come in handy. So, near the form in <code>new.html.erb</code> add this right under the <code>form_for</code> and right before the first <code>&lt;p&gt;</code> tag:</p>
+<div class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="o">&lt;</span><span class="sx">% if </span><span class="vi">@post</span><span class="p">.</span><span class="nf">errors</span><span class="p">.</span><span class="nf">any?</span> <span class="sx">%&gt;
+    &lt;div id="error"&gt;</span>
+        <span class="o">&lt;</span><span class="n">h2</span><span class="o">&gt;&lt;</span><span class="sx">%= pluralize(@post.errors.count, "error") %&gt; prevented this post from saving&lt;/h2&gt;
+        &lt;ul&gt;
+            &lt;% @post.errors.full_messages.each do |msg| %&gt;
+                &lt;li&gt;&lt;%=</span> <span class="n">msg</span> <span class="sx">%&gt;&lt;/li&gt;</span>
+            <span class="o">&lt;</span><span class="sx">% end </span><span class="o">%&gt;</span>
+        <span class="o">&lt;</span><span class="sr">/ul&gt;
+    &lt;/</span><span class="n">div</span><span class="o">&gt;</span>
+<span class="o">&lt;</span><span class="sx">% end </span><span class="o">%&gt;</span>
+</code></pre></div>
+<h2>Partial</h2>
+
+<p>While we’re here, cut everything from this file except the <code>h1</code> tag on top and create a new file in the same directory called <code>_form.html.erb</code>. This is a special type of file called a partial that’ll allow you to throw snippets like the form into. These types of coding practices will help keep our programs more DRY. Paste the whole form in there and just change the first line from <code>&lt;%= form_for :post, url: posts_path do |f| %&gt;</code> to <code>&lt;%= form_for @post do |f| %&gt;</code> - this will ensure our form is dynamic enough to be passed around the application. Now in <code>new.html.erb</code> just add <code>&lt;%= render ‘form’ %&gt;</code>. Go ahead and test out a new post to find nothing has changed on the front end.</p>
+
+<p>I’m sure you know how to commit your work with git at this point.</p>
+
+<h2>Edit/Update</h2>
+
+<p>Let’s face it, you’re never going to write a whole post the right way on the first try. Hell, this post probably has so many typos I’m surprised you’re still reading it. Adding update and edit functionality is fairly easy in our Rails app. Here’s the extra code you’ll need in the <code>posts_controller.rb</code>:</p>
+<div class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">edit</span>
+    <span class="vi">@post</span> <span class="o">=</span> <span class="no">Post</span><span class="p">.</span><span class="nf">find</span><span class="p">(</span><span class="n">params</span><span class="p">[</span><span class="ss">:id</span><span class="p">])</span>
+<span class="k">end</span>
+
+<span class="k">def</span> <span class="nf">update</span>
+    <span class="vi">@post</span> <span class="o">=</span> <span class="no">Post</span><span class="p">.</span><span class="nf">find</span><span class="p">(</span><span class="n">params</span><span class="p">[</span><span class="ss">:id</span><span class="p">])</span>
+
+    <span class="k">if</span> <span class="vi">@post</span><span class="p">.</span><span class="nf">update</span><span class="p">(</span><span class="n">params</span><span class="p">[</span><span class="ss">:post</span><span class="p">].</span><span class="nf">permit</span><span class="p">(</span><span class="ss">:title</span><span class="p">,</span> <span class="ss">:body</span><span class="p">))</span>
+        <span class="n">redirect_to</span> <span class="vi">@post</span>
+    <span class="k">else</span>
+        <span class="n">render</span> <span class="s1">'edit'</span>
+    <span class="k">end</span>
+<span class="k">end</span>
+
+ <span class="k">def</span> <span class="nf">destroy</span>
+    <span class="vi">@post</span> <span class="o">=</span> <span class="no">Post</span><span class="p">.</span><span class="nf">find</span><span class="p">(</span><span class="n">params</span><span class="p">[</span><span class="ss">:id</span><span class="p">])</span>
+    <span class="vi">@post</span><span class="p">.</span><span class="nf">destroy</span>
+
+    <span class="n">redirect_to</span> <span class="n">root_path</span>
+<span class="k">end</span>
+</code></pre></div>
+<p>From here, we now need a new view for the editing page. In <code>/posts</code>, create a new file called <code>edit.html.erb</code>. We can actually take the same code we have in <code>new.html.erb</code> and simply copy/paste it - just be sure to change the <code>h1</code> tag from “New Post” to “Edit Post”.</p>
+
+<p>This is great. We have all this functionality, but there are no links to get to any of them, and who wants to type things into the address bar? In <code>show.html.erb</code>, somewhere near where we show the date of the post, go ahead and add these couple lines of code:</p>
+<div class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="o">&lt;</span><span class="sx">%= link_to 'Edit', edit_post_path(@post) %&gt;
+| &lt;%=</span> <span class="n">link_to</span> <span class="s1">'Delete'</span><span class="p">,</span> <span class="n">post_path</span><span class="p">(</span><span class="vi">@post</span><span class="p">),</span> <span class="ss">method: :delete</span><span class="p">,</span> <span class="ss">data: </span><span class="p">{</span> <span class="ss">confirm: </span><span class="s2">"You sure?"</span> <span class="p">}</span> <span class="o">%&gt;</span>
+</code></pre></div>
+<p>With that, we now have all the CRUD features for our blog. Create, read, update, and destroy all the blog posts you’d like. We’re still not quite finished, though, but we’re nearly there.</p>
+
+<h2>Users</h2>
+
+<p>Right now, anyone can come into your application and start deleting your posts - or worse, they can make their own posts. Our application is great and all, but it has no idea who you are. We’re going to fix that right now with <a href="https://github.com/plataformatec/devise">Devise</a>. First step for this is to add the gem to our Gemfile. We did this before while adding Bootstrap. Simply append <code>gem &#39;devise&#39;, &#39;~&gt; 3.4.0&#39;</code> and run <code>bundle install</code>. Restart your server and run <code>rails g devise:install</code>. This will prompt some instructions for you. Step five should be to install the Devise views, we’ll do that by running <code>rails g devise:views</code>.</p>
+
+<p>Now, run <code>rails g devise User</code>, <code>rake db:migrate</code> and navigate to <a>localhost:3000/users/sign<em>up</a> you should be able to sign up. The only thing left to do is still make sure that not just anyone can mess around with your posts. In posts</em>controller.rb, right on the second line add this line of code provided by Devise, <code>before_action :authentication_user!, except: [:index, :show]</code>.</p>
+
+<p>All that is left is to make sure you have to be signed in to access the edit and delete links. This one’s easy, in <code>show.html.erb</code>, wrap the edit and delete links in <code>&lt;% if user_signed_in? %&gt;</code> and <code>&lt;% end %&gt;</code>. Commit all of this.</p>
+
+<h2>Heroku Create</h2>
+
+<p>Deploying your app can be the hardest part. I went through many different attempts to try and get this app running as smooth as I can, since I wasn’t prepared to handle sysadmin stuff at this point in time, I ended up making it a separate little app on Heroku instead.</p>
+
+<p>Heroku makes things so effortless anyone can have an app running on the live web in a matter of minutes. There are a couple tiny adjustments we have to make in our app first. Heroku and SQLite don’t play nicely together, it prefers Postgresql. In your Gemfile, comment out the sqlite3 gem and at the bottom of the file add this:</p>
+<div class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="n">group</span> <span class="ss">:production</span> <span class="k">do</span>
+    <span class="n">gem</span> <span class="s1">'pg'</span>
+<span class="k">end</span>
+</code></pre></div>
+<p>Be sure to commit this, and <code>bundle install</code>. There, now your app is ready to run on Heroku’s servers. For the next part, just make a free account over at <a href="https://dashboard.heroku.com/">Heroku</a> and follow their instructions for getting the tool belt installed. Once you’ve done that, run <code>heroku create</code>. If you refresh your dashboard on Heroku you’ll see a new app appear. At this point, you can try running <code>heroku open</code> which will load your app live in your browser, however, nothing is really there yet except a little note assuring us everything is okay. We still have to run <code>git push heroku master</code> - this will actually push your app onto the server, it might take a while. Finally, we run a migration through heroku with <code>heroku run rake db:migrate</code>.</p>
+
+<p>heroku open and you should see your site live! Share the link with pride. Go back to your dashboard and connect it with the Github repo so when you push changes Heroku can detect them straight from there.</p>
+
+<p>Now we’re going to get a little hack-y. I’m not sure of the most efficient way to go about this, if I’m doing this totally wrong, well, at least I had a good time. Go to your app users/sign_up and create an account. Don’t forget these credentials and make sure they’re fairly secure. git clone your app again or however you have it set up at the moment and navigate to the <code>app/models/user.rb</code> file and just remove the <code>:registerable</code> tag. This will allow no one to make an account on your blog and start messing with your posts.</p>
+
+<p>Commit it, deploy the latest branch in the Heroku dashboard, and you should be fully set to go.</p>
+
+<div class="message">
+  If you liked this or found it useful please let me know. You can check out the code on my <a href="http://github.com/nickcalabs">GitHub</a> and I'd love to connect on <a href="http://twitter.com/nickcalabs">Twitter</a>, <a href="http://linkedin.com/in/nickcalabro">Linkedin</a>, or just chatting in <a href="mailto:calabro.nick@gmail.com">emails</a>.
+</div>
+
+</article>
+
+
+<aside class="related">
+  <h2>Related Posts</h2>
+  <ul class="related-posts">
+    
+      <li>
+        <h3>
+          <a href="/How-I-Put-My-Holiday-Cards-On-Chain">
+            Holiday Card NFTs
+            <small><time datetime="2021-12-24T00:00:00-05:00">24 Dec 2021</time></small>
+          </a>
+        </h3>
+      </li>
+    
+      <li>
+        <h3>
+          <a href="/Which-Mode">
+            Which Mode are You In | And How To Be Productive In It
+            <small><time datetime="2017-12-01T00:00:00-05:00">01 Dec 2017</time></small>
+          </a>
+        </h3>
+      </li>
+    
+      <li>
+        <h3>
+          <a href="/Life-With-Zero-Notifications">
+            Life With Zero Notifications
+            <small><time datetime="2017-11-21T00:00:00-05:00">21 Nov 2017</time></small>
+          </a>
+        </h3>
+      </li>
+    
+  </ul>
+</aside>
+
+
+      </main>
+
+      
+    </div>
+    
+    <footer>
+      <div class="container">
+        <small>
+          &copy; <time datetime="2023-07-20T22:49:59-04:00">2023</time>. New York, NY | Miami, FL.
+        </small>
+        </div>
+      </footer>
+
+  </body>
+</html>
