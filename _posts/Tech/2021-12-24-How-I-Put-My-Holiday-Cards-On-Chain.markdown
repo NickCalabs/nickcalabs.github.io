@@ -46,6 +46,8 @@ excerpt: ""
 
 <figure><img src="/img/nyt-hash.jpg"/></figure>
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Bitcoin tests your tolerance for volatility, then liquidity</p>&mdash; Nick Calabro (@NickCalabs) <a href="https://twitter.com/NickCalabs/status/1682210067439910914?ref_src=twsrc%5Etfw">July 21, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <p>Now, bear with me, because if you don’t understand crypto entirely yet, this will truly make things seen in a different, tangible light. </p>
 
 <p>First, we need to understand some quick fundamentals on blockchain.</p>
